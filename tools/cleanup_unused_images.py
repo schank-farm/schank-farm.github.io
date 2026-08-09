@@ -28,16 +28,17 @@ def cleanup_unused():
         used_filenames.add(k.lower())
 
     if os.path.exists(SRC_DIR):
-        for fname in os.listdir(SRC_DIR):
-            if fname.endswith(".md"):
-                filepath = os.path.join(SRC_DIR, fname)
-                with open(filepath, "r", encoding="utf-8") as f:
-                    content = f.read()
-                    matches = re.findall(r'/(?:docs/)?images/([^\s"\)\'\\]+)', content)
-                    for m in matches:
-                        clean_m = m.split("#")[0].split("?")[0]
-                        used_filenames.add(clean_m)
-                        used_filenames.add(clean_m.lower())
+        for root, _, files in os.walk(SRC_DIR):
+            for fname in files:
+                if fname.endswith(".md"):
+                    filepath = os.path.join(root, fname)
+                    with open(filepath, "r", encoding="utf-8") as f:
+                        content = f.read()
+                        matches = re.findall(r'(?:/(?:docs/)?images/|!\[.*?\]\(|featured_image:\s*["\']?)([^\s"\)\'\\]+\.(?:jpg|jpeg|png|gif|JPG|JPEG|PNG|GIF))', content)
+                        for m in matches:
+                            clean_m = os.path.basename(m.split("#")[0].split("?")[0])
+                            used_filenames.add(clean_m)
+                            used_filenames.add(clean_m.lower())
 
     if os.path.exists(LAYOUTS_DIR):
         for root, _, files in os.walk(LAYOUTS_DIR):

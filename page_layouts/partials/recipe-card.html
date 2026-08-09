@@ -1,8 +1,19 @@
 <div class="recipe-card">
+  {{ $imgSrc := "" }}
   {{ if .Params.featured_image }}
+    {{ $res := .Resources.GetMatch .Params.featured_image }}
+    {{ if $res }}
+      {{ $imgSrc = $res.RelPermalink }}
+    {{ else if hasPrefix .Params.featured_image "/" }}
+      {{ $imgSrc = .Params.featured_image }}
+    {{ else }}
+      {{ $imgSrc = printf "%s%s" .RelPermalink .Params.featured_image }}
+    {{ end }}
+  {{ end }}
+  {{ if $imgSrc }}
   <div class="recipe-card-img-wrapper">
     <a href="{{ .RelPermalink }}">
-      <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="recipe-card-img" loading="lazy" />
+      <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="recipe-card-img" loading="lazy" />
     </a>
   </div>
   {{ end }}

@@ -68,12 +68,12 @@ def resolve_image_path(url, local_file_map, hash_map):
     """
     if url in hash_map:
         target_name = hash_map[url]
-        return f"/images/{target_name}", target_name
+        return target_name, target_name
 
     filename = extract_filename_from_url(url)
     if filename and filename.lower() in local_file_map:
         actual_name = local_file_map[filename.lower()]
-        return f"/images/{actual_name}", actual_name
+        return actual_name, actual_name
 
     return url, ""
 
@@ -254,11 +254,20 @@ def convert_feed():
 
         md_body, featured_image = clean_html_content(raw_html, local_file_map, hash_map)
 
-        # Generate clean date-less slug
+        # Generate clean date-less slug and leaf bundle folder
         slug = generate_unique_slug(title, filename, used_slugs)
         date_prefix = date_str[:10]
-        out_filename = f"{date_prefix}-{slug}.md"
-        out_filepath = os.path.join(SRC_DIR, out_filename)
+        bundle_dir = os.path.join(SRC_DIR, f"{date_prefix}-{slug}")
+        os.makedirs(bundle_dir, exist_ok=True)
+        out_filepath = os.path.join(bundle_dir, "index.md")
+
+        # Copy referenced images into leaf bundle directory
+        for img_path in set(re.findall(r'!\[.*?\]\(([^)]+)\)', md_body) + ([featured_image] if featured_image else [])):
+            if img_path and not img_path.startswith("http://") and not img_path.startswith("https://"):
+                src_img = os.path.join(IMAGES_DIR, os.path.basename(img_path))
+                if os.path.exists(src_img):
+                    import shutil
+                    shutil.copy2(src_img, os.path.join(bundle_dir, os.path.basename(img_path)))
 
         # Build permalink alias
         aliases = []
