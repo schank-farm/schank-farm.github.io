@@ -24,6 +24,10 @@ target = "static/css"
 source = "docs/images"
 target = "static/images"
 
+[[module.mounts]]
+source = "archetypes"
+target = "archetypes"
+
 [taxonomies]
   category = "categories"
 

@@ -29,7 +29,9 @@ Assuming `.envrc` is present in the workspace:
 
 ---
 
-## 2. Core Workflow & Separation of Responsibilities
+## 2. Previous Conversion
+
+Previously, this website was converted from the /tools/feed.atom that was exported from Blogger.  That code remains in /tools in case it is needed again.
 
 ### 1. Blogger Export Conversion (`python3 tools/convert_blogger.py`)
 All Blogger import and conversion responsibilities are handled by `tools/convert_blogger.py`:
@@ -37,26 +39,30 @@ All Blogger import and conversion responsibilities are handled by `tools/convert
 - **Feed Conversion**: Parses `tools/feed.atom` and converts Blogger posts into clean Hugo Markdown files in `src/` with YAML frontmatter.
 - **Unused Image Cleanup**: Scans `src/*.md` and `page_layouts/`, protecting branding assets while archiving unreferenced export images into `unused/`.
 
-To run the complete Blogger conversion pipeline:
+## 3. Current Development
+
+### 1. Creating a New Article (`./gen.sh --new`)
+
+To create a new article draft Leaf Bundle directory by providing the title in quotes:
+
 ```bash
-python3 tools/convert_blogger.py
+./gen.sh --new "My New Article Title"
 ```
 
-### 2. Site Rebuilding (`./gen.sh`)
-The `./gen.sh` script is responsible **strictly** for rebuilding the Hugo static website into `docs/`. It performs no Blogger conversion tasks.
+This automatically:
+- Converts the title into a clean hyphenated slug (e.g. `my-new-article-title`).
+- Creates the Leaf Bundle directory `src/my-new-article-title/index.md`.
+- Sets `title: "My New Article Title"`.
+- Sets `slug: "my-new-article-title"`.
+- Sets `draft: true`.
+- Populates `index.md` with default frontmatter ready for editing.
 
-To rebuild the site:
+### 2. Site Rebuilding (`./gen.sh`)
+The `./gen.sh` script rebuilds the static website into `docs/`:
+
 ```bash
 ./gen.sh
 ```
-
----
-
-## 3. Individual Helper Scripts in `tools/`
-
-- **`tools/process_hashed_images.py`**: Downloads full-resolution images for Google Photos hashed URLs and maintains `tools/image_hash_map.json`.
-- **`tools/convert_blogger.py`**: Main entrypoint for Blogger Atom feed conversion.
-- **`tools/cleanup_unused_images.py`**: Identifies unreferenced image files and moves them to `unused/`.
 
 ---
 
