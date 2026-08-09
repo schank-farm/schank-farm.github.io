@@ -1,6 +1,6 @@
-# Peachy Keen Green — Conversion & Maintenance Tools
+# Schank Farms — Conversion & Maintenance Tools
 
-This project contains standalone Python 3.13 tools, project configuration (`pyproject.toml`), environment settings (`.envrc`), and build scripts to manage the Peachy Keen Green Hugo static site.
+This project contains standalone Python 3.13 tools, project configuration (`pyproject.toml`), environment settings (`.envrc`), and build scripts to manage the this Hugo static site.
 
 ---
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# gen.sh - Rebuild Peachy Keen Green Hugo Website
+# gen.sh - Rebuild this Hugo Website
 
 set -e
 
@@ -8,7 +8,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 echo "=================================================="
-echo "🌱 Peachy Keen Green - Site Generator"
+echo "Schank Farms - Site Generator"
 echo "=================================================="
 
 # Rebuild Hugo static site into docs/
