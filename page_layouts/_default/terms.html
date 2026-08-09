@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div style="text-align: center; margin-bottom: 2.5rem;">
+  <h1>{{ .Title }}</h1>
+  <p class="lead" style="color: var(--muted-color);">Explore articles by category.</p>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; max-width: 800px; margin: 0 auto 3rem auto;">
+  <a href="/" class="category-pill" style="font-size: 1.1rem; padding: 0.6rem 1.2rem;">
+    All <span style="opacity: 0.7; font-size: 0.9rem;">({{ len .Site.RegularPages }})</span>
+  </a>
+  {{ range .Data.Terms.ByCount }}
+    <a href="{{ .Page.RelPermalink }}" class="category-pill" style="font-size: 1.1rem; padding: 0.6rem 1.2rem;">
+      {{ .Page.Title }} <span style="opacity: 0.7; font-size: 0.9rem;">({{ .Count }})</span>
+    </a>
+  {{ end }}
+</div>
+{{ end }}

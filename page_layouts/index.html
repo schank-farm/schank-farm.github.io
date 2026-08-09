@@ -1,0 +1,84 @@
+{{ define "main" }}
+<div class="category-filter" id="heroSection" style="margin-bottom: 2.5rem;">
+  <a href="/" class="category-pill active">All Articles</a>
+  {{ range .Site.Taxonomies.categories }}
+    <a href="{{ .Page.RelPermalink }}" class="category-pill">{{ .Page.Title }} ({{ .Count }})</a>
+  {{ end }}
+</div>
+
+<section>
+  <div id="searchResultsBanner" class="search-results-banner" style="display: none; margin-bottom: 2.5rem; text-align: center;">
+    <h1 style="font-family: 'EB Garamond', Garamond, Georgia, serif; color: var(--h1-color); font-weight: 700; font-size: 2.8rem; margin-bottom: 0.5rem;">Search Results for "<span id="searchQueryTerm"></span>"</h1>
+    <p id="searchCountText" style="color: var(--muted-color); font-size: 1.1rem;"></p>
+  </div>
+
+  <div class="recipe-grid" id="recipeGrid">
+    {{ range .Site.RegularPages }}
+      {{ partial "recipe-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get("q");
+
+    if (query && query.trim() !== "") {
+      const heroSection = document.getElementById("heroSection");
+      if (heroSection) {
+        heroSection.style.display = "none";
+      }
+
+      const banner = document.getElementById("searchResultsBanner");
+      const queryTerm = document.getElementById("searchQueryTerm");
+      const countText = document.getElementById("searchCountText");
+      const grid = document.getElementById("recipeGrid");
+
+      if (banner && queryTerm) {
+        queryTerm.textContent = query;
+        banner.style.display = "block";
+      }
+
+      fetch("/index.json")
+        .then(response => response.json())
+        .then(data => {
+          if (typeof Fuse === "undefined") return;
+
+          const fuse = new Fuse(data, {
+            keys: [
+              { name: "title", weight: 0.5 },
+              { name: "categories", weight: 0.3 },
+              { name: "summary", weight: 0.2 }
+            ],
+            threshold: 0.35,
+            ignoreLocation: true
+          });
+
+          const results = fuse.search(query);
+          const matchingPermalinks = new Set(results.map(r => r.item.permalink));
+
+          let matchCount = 0;
+          const cards = grid.querySelectorAll(".recipe-card");
+          cards.forEach(card => {
+            const link = card.querySelector(".recipe-card-title a");
+            if (link) {
+              const href = link.getAttribute("href");
+              if (matchingPermalinks.has(href)) {
+                card.style.display = "flex";
+                matchCount++;
+              } else {
+                card.style.display = "none";
+              }
+            }
+          });
+
+          if (countText) {
+            countText.textContent = `Found ${matchCount} matching article${matchCount === 1 ? '' : 's'}.`;
+          }
+        })
+        .catch(err => console.error("Search index error:", err));
+    }
+  });
+</script>
+{{ end }}

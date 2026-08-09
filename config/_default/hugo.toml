@@ -1,0 +1,41 @@
+baseURL = "/"
+title = "Schank Farm"
+locale = "en"
+summaryLength = 30
+
+contentDir = "src"
+layoutDir = "page_layouts"
+publishDir = "docs"
+keepFiles = ["images", "css"]
+
+[[module.mounts]]
+source = "src"
+target = "content"
+
+[[module.mounts]]
+source = "page_layouts"
+target = "layouts"
+
+[[module.mounts]]
+source = "css"
+target = "static/css"
+
+[[module.mounts]]
+source = "docs/images"
+target = "static/images"
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  posts = "/:slug/"
+
+[params]
+  version = "18"
+  description = "take a ride in a combine if it's not pasture bedtime"
+  subtitle = "take a ride in a combine if it's not pasture bedtime"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+

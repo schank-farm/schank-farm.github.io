@@ -1,0 +1,11 @@
+[
+  {{ range $index, $page := .Site.RegularPages }}
+  {{ if $index }},{{ end }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "permalink": {{ $page.RelPermalink | jsonify }},
+    "categories": {{ $page.Params.categories | jsonify }},
+    "summary": {{ $page.Summary | plainify | jsonify }}
+  }
+  {{ end }}
+]

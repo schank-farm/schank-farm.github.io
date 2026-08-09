@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.subtitle }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.subtitle }}{{ end }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="/images/farm-logo.png">
+  <link rel="stylesheet" href="/css/pico.min.css">
+  <link rel="stylesheet" href="/css/styles.css?v={{ .Site.Params.version | default "1" }}">
+  <script defer src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
+</head>
+<body>
+  {{ partial "header.html" . }}
+  
+  <main class="container" style="min-height: 70vh;">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const searchForm = document.getElementById("headerSearchForm");
+      const searchInput = document.getElementById("headerSearchInput");
+      const searchBtn = document.getElementById("headerSearchBtn");
+
+      if (!searchForm || !searchInput) return;
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const currentQuery = urlParams.get("q") || "";
+      if (currentQuery) {
+        searchInput.value = currentQuery;
+      }
+
+      function executeSearch() {
+        const q = searchInput.value.trim();
+        if (q.length > 0) {
+          window.location.href = "/?q=" + encodeURIComponent(q);
+        }
+      }
+
+      if (searchBtn) {
+        searchBtn.addEventListener("click", function(e) {
+          e.preventDefault();
+          executeSearch();
+        });
+      }
+
+      searchForm.addEventListener("submit", function(e) {
+        e.preventDefault();
+        executeSearch();
+      });
+    });
+  </script>
+</body>
+</html>

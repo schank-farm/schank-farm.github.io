@@ -1,0 +1,84 @@
+# Peachy Keen Green — Conversion & Maintenance Tools
+
+This project contains standalone Python 3.13 tools, project configuration (`pyproject.toml`), environment settings (`.envrc`), and build scripts to manage the Peachy Keen Green Hugo static site.
+
+---
+
+## 1. Environment Setup & Execution
+
+### Environment (`.envrc` / `pyproject.toml`)
+Targets **Python 3.13** using zero external pip runtime dependencies (`xml.etree.ElementTree`, `hashlib`, `urllib.request`, `json`, `shutil`).
+
+### Python Setup
+Assuming `.envrc` is present in the workspace:
+
+1. **Enable Environment (`direnv`)**:
+   If using `direnv`, allow the directory environment to automatically set `PROJECT_ROOT`, `PYTHON_VERSION="3.13"`, and add system paths:
+   ```bash
+   direnv allow
+   ```
+
+2. **Virtual Environment & Dependencies (Optional)**:
+   The conversion scripts use standard library modules exclusively and require no external runtime dependencies.
+   If you wish to set up a virtual environment or install development tools (`pytest`, `ruff`):
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -e ".[dev]"
+   ```
+
+---
+
+## 2. Core Workflow & Separation of Responsibilities
+
+### 1. Blogger Export Conversion (`python3 tools/convert_blogger.py`)
+All Blogger import and conversion responsibilities are handled by `tools/convert_blogger.py`:
+- **Image Processing**: Scans `tools/feed.atom` for Google Photos hashed URLs (`/img/a/...`), matches MD5 file signatures, and saves clean image filenames into `docs/images/`.
+- **Feed Conversion**: Parses `tools/feed.atom` and converts Blogger posts into clean Hugo Markdown files in `src/` with YAML frontmatter.
+- **Unused Image Cleanup**: Scans `src/*.md` and `page_layouts/`, protecting branding assets while archiving unreferenced export images into `unused/`.
+
+To run the complete Blogger conversion pipeline:
+```bash
+python3 tools/convert_blogger.py
+```
+
+### 2. Site Rebuilding (`./gen.sh`)
+The `./gen.sh` script is responsible **strictly** for rebuilding the Hugo static website into `docs/`. It performs no Blogger conversion tasks.
+
+To rebuild the site:
+```bash
+./gen.sh
+```
+
+---
+
+## 3. Individual Helper Scripts in `tools/`
+
+- **`tools/process_hashed_images.py`**: Downloads full-resolution images for Google Photos hashed URLs and maintains `tools/image_hash_map.json`.
+- **`tools/convert_blogger.py`**: Main entrypoint for Blogger Atom feed conversion.
+- **`tools/cleanup_unused_images.py`**: Identifies unreferenced image files and moves them to `unused/`.
+
+---
+
+## 4. Running Local Development Server (`hugo server`)
+
+To preview the site locally with live reloading on port 8080:
+
+```bash
+hugo server --port 8080
+```
+
+Options:
+- To include draft posts: `hugo server --port 8080 -D`
+- To include future-dated posts: `hugo server --port 8080 --buildFuture`
+
+The development server serves the site at `http://localhost:8080/` and automatically watches `src/`, `page_layouts/`, `docs/css/`, and `docs/images/` for live updates.
+
+---
+
+## 5. Search Index Generation & GitHub Pages
+
+The search system operates statically on GitHub Pages:
+- **Hugo Index Template**: `page_layouts/index.json` generates `docs/index.json` during site build.
+- **Search Execution**: Clicking the 🔍 icon in the header toggles the inline search field; pressing **Return / Enter** or clicking 🔍 submits `/?q=query`.
+- **Edge CDN**: Fuse.js is referenced via jsDelivr CDN (`https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js`) with `defer` for static client-side search.

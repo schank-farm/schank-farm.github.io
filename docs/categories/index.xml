@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on Schank Farm</title>
+		<link>/categories/</link>
+		<description>Recent content in Categories on Schank Farm</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Feb 2026 04:02:09 +0000</lastBuildDate>
+		
+			<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Corn</title>
+				<link>/categories/corn/</link>
+				<pubDate>Wed, 17 Aug 2022 21:13:00 +0000</pubDate>
+				<guid>/categories/corn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>House</title>
+				<link>/categories/house/</link>
+				<pubDate>Wed, 17 Aug 2022 21:13:00 +0000</pubDate>
+				<guid>/categories/house/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Drone</title>
+				<link>/categories/drone/</link>
+				<pubDate>Sun, 08 Aug 2021 03:47:00 +0000</pubDate>
+				<guid>/categories/drone/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Soybeans</title>
+				<link>/categories/soybeans/</link>
+				<pubDate>Sun, 08 Aug 2021 03:47:00 +0000</pubDate>
+				<guid>/categories/soybeans/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>History</title>
+				<link>/categories/history/</link>
+				<pubDate>Fri, 05 Mar 2021 20:37:00 +0000</pubDate>
+				<guid>/categories/history/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trip</title>
+				<link>/categories/trip/</link>
+				<pubDate>Sat, 31 Oct 2020 23:59:00 +0000</pubDate>
+				<guid>/categories/trip/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Chickens</title>
+				<link>/categories/chickens/</link>
+				<pubDate>Sat, 30 Nov 2019 23:51:00 +0000</pubDate>
+				<guid>/categories/chickens/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cows</title>
+				<link>/categories/cows/</link>
+				<pubDate>Sat, 30 Nov 2019 23:51:00 +0000</pubDate>
+				<guid>/categories/cows/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Harvest</title>
+				<link>/categories/harvest/</link>
+				<pubDate>Thu, 31 Oct 2019 04:33:00 +0000</pubDate>
+				<guid>/categories/harvest/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Landscaping</title>
+				<link>/categories/landscaping/</link>
+				<pubDate>Wed, 05 Jun 2019 16:38:00 +0000</pubDate>
+				<guid>/categories/landscaping/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Flooding</title>
+				<link>/categories/flooding/</link>
+				<pubDate>Sun, 24 Mar 2019 05:06:00 +0000</pubDate>
+				<guid>/categories/flooding/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Planting</title>
+				<link>/categories/planting/</link>
+				<pubDate>Sun, 22 Jul 2018 15:47:00 +0000</pubDate>
+				<guid>/categories/planting/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eclipse</title>
+				<link>/categories/eclipse/</link>
+				<pubDate>Tue, 22 Aug 2017 06:03:00 +0000</pubDate>
+				<guid>/categories/eclipse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Shed</title>
+				<link>/categories/shed/</link>
+				<pubDate>Sat, 08 Apr 2017 05:41:00 +0000</pubDate>
+				<guid>/categories/shed/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stand</title>
+				<link>/categories/stand/</link>
+				<pubDate>Fri, 03 Jun 2016 04:39:00 +0000</pubDate>
+				<guid>/categories/stand/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

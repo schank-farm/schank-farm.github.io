@@ -1,0 +1,27 @@
+<div class="recipe-card">
+  {{ if .Params.featured_image }}
+  <div class="recipe-card-img-wrapper">
+    <a href="{{ .RelPermalink }}">
+      <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="recipe-card-img" loading="lazy" />
+    </a>
+  </div>
+  {{ end }}
+  <div class="recipe-card-body">
+    <div class="recipe-card-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 02, 2006" }}</time>
+      <div class="recipe-card-categories">
+        {{ range .Params.categories }}
+        <a href="/categories/{{ . | urlize }}/" class="category-pill">{{ . }}</a>
+        {{ end }}
+      </div>
+    </div>
+    <h3 class="recipe-card-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+    <div class="recipe-card-excerpt">
+      <a href="{{ .RelPermalink }}" class="recipe-card-excerpt-link">
+        <p class="recipe-card-excerpt-text">{{ .Summary | plainify | truncate 200 "..." }}</p>
+      </a>
+    </div>
+  </div>
+</div>

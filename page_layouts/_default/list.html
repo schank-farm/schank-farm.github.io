@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div style="margin-bottom: 2rem; text-align: center;">
+  <h1>{{ .Title }}</h1>
+  <p class="lead" style="color: var(--muted-color);">Browsing {{ len .Pages }} articles in this section.</p>
+</div>
+
+<div class="recipe-grid">
+  {{ range .Pages }}
+    {{ partial "recipe-card.html" . }}
+  {{ end }}
+</div>
+{{ end }}
