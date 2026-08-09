@@ -62,15 +62,16 @@ To rebuild the site:
 
 ## 4. Running Local Development Server (`hugo server`)
 
-To preview the site locally with live reloading on port 8080:
+To preview the site locally with live reloading on port 8080 without Hugo adding live-reload script code to static HTML files in `docs/`:
 
 ```bash
-hugo server --port 8080
+hugo server --renderToMemory --port 8080
 ```
 
 Options:
-- To include draft posts: `hugo server --port 8080 -D`
-- To include future-dated posts: `hugo server --port 8080 --buildFuture`
+- To render in memory (prevents Hugo from adding live-reload script code to HTML files on disk): `--renderToMemory` (or `-M`)
+- To include draft posts: `hugo server --renderToMemory --port 8080 -D`
+- To include future-dated posts: `hugo server --renderToMemory --port 8080 --buildFuture`
 
 The development server serves the site at `http://localhost:8080/` and automatically watches `src/`, `page_layouts/`, `docs/css/`, and `docs/images/` for live updates.
 
