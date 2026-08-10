@@ -58,7 +58,6 @@ To create a new article draft Leaf Bundle directory by providing the title in qu
 This automatically:
 
 - Converts the title into a clean hyphenated slug (e.g. `my-new-article-title`).
-- 
 - Creates the Leaf Bundle directory `src/my-new-article-title/index.md`.
 - Sets `title: "My New Article Title"`.
 - Sets `slug: "my-new-article-title"`.
