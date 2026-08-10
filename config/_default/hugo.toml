@@ -6,7 +6,7 @@ summaryLength = 30
 contentDir = "src"
 layoutDir = "page_layouts"
 publishDir = "docs"
-keepFiles = ["images", "css"]
+keepFiles = ["images"]
 
 [[module.mounts]]
 source = "src"
@@ -17,8 +17,8 @@ source = "page_layouts"
 target = "layouts"
 
 [[module.mounts]]
-source = "css"
-target = "static/css"
+source = "static"
+target = "static"
 
 [[module.mounts]]
 source = "docs/images"
