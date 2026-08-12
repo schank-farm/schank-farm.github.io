@@ -14,4 +14,8 @@ Loved my first ride in the combine, and learning about all the technology they u
 
 Recommend expand to full screen! (Press play, then click on the square in the bottom right.)
 
+{{< youtube 1VqGqOtfZ9E >}}
+
 Watch the grain shooting out of the elevator into the trailer pulled by a tractor driven by Keith, running alongside us as we pick.
+
+{{< youtube BWtGT3n6IfE >}}

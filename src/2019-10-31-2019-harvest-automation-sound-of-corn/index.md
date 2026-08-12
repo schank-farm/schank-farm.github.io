@@ -19,7 +19,11 @@ I asked Keith if/when he thought harvest might be done all by machine. "The tech
 
 Watch the video below to learn more and watch the harvest! (Best to expand to full screen :)
 
+{{< youtube n7i0MwXwrAw >}}
+
 And in case you ever wondered what a field of harvest-ready white corn sounds like...
+
+{{< youtube GlwhloHPS-A >}}
 
 Oh, and check out this adorable girl (Maiya), who loves harvest as much as we do!
 

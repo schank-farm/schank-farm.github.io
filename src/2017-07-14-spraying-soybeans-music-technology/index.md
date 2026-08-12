@@ -11,3 +11,5 @@ description: "Spraying the soybeans - music & technology enhanced farming."
 ---
 
 Experience a ride through a field of soybeans, and music- and technology-enhanced farming. The song is "Came here to forget" by Blake Shelton. (Ya, the last lyric was "That first kiss was like a Colorado hit"). Expand to full screen (click play, then square outline in lower right) for a fuller experience!
+
+{{< youtube nuJ68wDiffI >}}

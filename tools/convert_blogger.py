@@ -130,6 +130,22 @@ def clean_html_content(raw_html, local_file_map, hash_map):
 
     content = re.sub(r'<img[^>]+>', replace_img, content, flags=re.IGNORECASE)
 
+    # Convert YouTube Iframes to Hugo Shortcodes
+    def replace_iframe(match):
+        iframe_tag = match.group(0)
+        yt_id_match = re.search(r'youtube\.com/embed/([a-zA-Z0-9_-]+)', iframe_tag, re.IGNORECASE) or re.search(r'youtube-src-id=["\']([a-zA-Z0-9_-]+)["\']', iframe_tag, re.IGNORECASE)
+        if yt_id_match:
+            yt_id = yt_id_match.group(1).split('?')[0]
+            return f"\n\n{{{{< youtube {yt_id} >}}}}\n\n"
+        src_match = re.search(r'src=["\']([^"\']+)["\']', iframe_tag, re.IGNORECASE)
+        if src_match:
+            src = src_match.group(1)
+            return f"\n\n<iframe src=\"{src}\" allowfullscreen></iframe>\n\n"
+        return ""
+
+    content = re.sub(r'<iframe[^>]*>.*?</iframe>', replace_iframe, content, flags=re.IGNORECASE | re.DOTALL)
+    content = re.sub(r'<iframe[^>]*>', replace_iframe, content, flags=re.IGNORECASE)
+
     # Remove remaining HTML layout tables, divs, spans attributes
     content = re.sub(r'</?(?:table|tbody|tr|td|th|div|span|font)[^>]*>', '\n', content, flags=re.IGNORECASE)
 
