@@ -29,6 +29,6 @@ Oh, and check out this adorable girl (Maiya), who loves harvest as much as we do
 
 [![](maiya.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Fwo7tGvu8j5Pz1AjpIWpPITFw9ACxzqmFdIdCU5oUgE5R5hjI8YFtZc0KnOEAaslgOQe1YOtdoStbT0wcuNx9N8LO69biagnTefnKG15DOmwUKQWBQsbnV-PRtizbWJR75_mvMAlbvjl/s1600/maiya.jpg)
 
-[![](IMG_4234.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipnzC8iFqwGQDpag8_pIWUwjkJoz9jQOW0gxce49lxMXuCyYjyY9EsbCYbnIH_LoiO7053Jv_othhyphenhyphenNZWHYFJnmEPlOmwoZh5Ua_BzUBTyCCYyLtJYdzi835gd5RpATz130Jg5Abn5Yn3n/s1600/IMG_4234.jpg)
+[![](sunglasses-cab-selfie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipnzC8iFqwGQDpag8_pIWUwjkJoz9jQOW0gxce49lxMXuCyYjyY9EsbCYbnIH_LoiO7053Jv_othhyphenhyphenNZWHYFJnmEPlOmwoZh5Ua_BzUBTyCCYyLtJYdzi835gd5RpATz130Jg5Abn5Yn3n/s1600/sunglasses-cab-selfie.jpg)
 
-[![](IMG_E4193.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrd8gkTED5I2_2Vi7jFF3EJu3Z9dYKmUEN2ajVCHEH0R7YoI153QVarRvSn-8GvM32cxVuf4BTijX-NXgGgksoiIyBLbIg43nsDV4EpA0GiW27kOuF7SntQOT4Ksqj-bXjdPLEzjauAU-k/s1600/IMG_E4193.jpg)
+[![](family-red-truck.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrd8gkTED5I2_2Vi7jFF3EJu3Z9dYKmUEN2ajVCHEH0R7YoI153QVarRvSn-8GvM32cxVuf4BTijX-NXgGgksoiIyBLbIg43nsDV4EpA0GiW27kOuF7SntQOT4Ksqj-bXjdPLEzjauAU-k/s1600/family-red-truck.jpg)

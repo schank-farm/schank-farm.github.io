@@ -6,7 +6,7 @@ lastmod: "2019-08-31T00:20:07.126Z"
 draft: false
 categories: ["Chickens", "Corn", "Planting", "Soybeans"]
 aliases: ["/2015/12/crop-plans-for-2016.html"]
-featured_image: "IMG_1524.JPG"
+featured_image: "buckets-of-feed.JPG"
 description: "Crop planning."
 ---
 
@@ -25,10 +25,10 @@ I'm not a fan of farmers growing enogen. You can get a 50 cent premium per bushe
 
 Anyway, as long as you've read this far, here are some photos of Dad's chickens and feed :)
 
-[![](IMG_1524.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisewqJTLebY_CNglFeWmENS7ICSKZ1cI-Ek67THlGZwmnj_Eo7kDPVDwRM7IQW3khY8MIwN8LCFvfPONQpF_X_wf-ZQJTb0xSgvzA6o8fc3lJ9GB_exvk0Eb1kUuthx4chqNfbeYsqtqGP/s1600/IMG_1524.JPG)
+[![](buckets-of-feed.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisewqJTLebY_CNglFeWmENS7ICSKZ1cI-Ek67THlGZwmnj_Eo7kDPVDwRM7IQW3khY8MIwN8LCFvfPONQpF_X_wf-ZQJTb0xSgvzA6o8fc3lJ9GB_exvk0Eb1kUuthx4chqNfbeYsqtqGP/s1600/buckets-of-feed.JPG)
 
-[![](IMG_1542.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAla7wodY70pVAFb7NgGU7kwkZTXvc5vgn-Du1UJt3OYzeIYo3IaugIvck8vbRq_jiGQSnOJTKtfvFqOQgPBFilnL0tSSwuDSZNZYIvDxjumMGgKCUoP689EG1gAsJT1VXVzHia8SM6u8j/s1600/IMG_1542.jpg)
+[![](hen-in-bucket.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAla7wodY70pVAFb7NgGU7kwkZTXvc5vgn-Du1UJt3OYzeIYo3IaugIvck8vbRq_jiGQSnOJTKtfvFqOQgPBFilnL0tSSwuDSZNZYIvDxjumMGgKCUoP689EG1gAsJT1VXVzHia8SM6u8j/s1600/hen-in-bucket.jpg)
 
-[![](IMG_1566.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2vUS7vLoqLJZq6ivmvVK8Du72hhFXpEeDkb_vk5MSRD3T4DOdhFcLKhaVQ0C8Mkwt9wCW7H9G6PobY7JJlQpulF4vkuW1ulPgGoyK3DCR93EL00H7qkonAlBZvpyadhqRzH_JQOfT2CwP/s1600/IMG_1566.jpg)
+[![](man-holding-rooster.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2vUS7vLoqLJZq6ivmvVK8Du72hhFXpEeDkb_vk5MSRD3T4DOdhFcLKhaVQ0C8Mkwt9wCW7H9G6PobY7JJlQpulF4vkuW1ulPgGoyK3DCR93EL00H7qkonAlBZvpyadhqRzH_JQOfT2CwP/s1600/man-holding-rooster.jpg)
 
-[![](IMG_1512.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevlaQnjb0wImllsIY15GgmC_i-L89wDFV2bY29cUTpdCtT8L2jXyvXIv7rqLpVk4QAJYSM6qFjHpn_UTmVXNRLXVLVTzKJUiBYPJ3NRCDgQi8iHy-ZIdsashcPck49mbPLMEOKpXPEoPl/s1600/IMG_1512.jpg)
+[![](chicken-and-eggs.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevlaQnjb0wImllsIY15GgmC_i-L89wDFV2bY29cUTpdCtT8L2jXyvXIv7rqLpVk4QAJYSM6qFjHpn_UTmVXNRLXVLVTzKJUiBYPJ3NRCDgQi8iHy-ZIdsashcPck49mbPLMEOKpXPEoPl/s1600/chicken-and-eggs.jpg)

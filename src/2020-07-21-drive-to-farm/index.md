@@ -6,25 +6,25 @@ lastmod: "2021-02-25T17:15:34.770Z"
 draft: false
 categories: ["Trip"]
 aliases: ["/2020/07/drive-to-farm.html"]
-featured_image: "IMG_5919.jpg"
+featured_image: "truck-selfie.jpg"
 description: "Drive out to the Farm."
 ---
 
 [Jeff](https://biology.ucdavis.edu/people/jeff-schank) and I decided to take a drive out to the farm.
 
-[![](IMG_5919.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVjfUcqOyN-Ik9_TlXO1XQaQav7ESb-iFmUHPpHeKNkc4JapnZtJ5pUqrMo-9rNhbcVeUFGGRp3IrBpl-jGQN-qDVw6ClCPC8-SFjPXLGdCLsOivbbHu4yD8qv_vcHxCjygKOC7LOD6_qd/s640/IMG_5919.jpg)
+[![](truck-selfie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVjfUcqOyN-Ik9_TlXO1XQaQav7ESb-iFmUHPpHeKNkc4JapnZtJ5pUqrMo-9rNhbcVeUFGGRp3IrBpl-jGQN-qDVw6ClCPC8-SFjPXLGdCLsOivbbHu4yD8qv_vcHxCjygKOC7LOD6_qd/s640/truck-selfie.jpg)
 
 Along the way, we saw some beautiful red rocks.
 
-[![](IMG_5990.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi03dGosWIIizhCwrVPXWMDYNDX5mqp_ANc1iwUe-b_qAWPvrG4rKbQ8x5YkMxXdl6xeT5bJwvvxFe1L_xfUz07eegtHMs2D1agALwiqJn_qeMs-nh_Ls6S303JFtpXmGdu-9tHv4VAqxV8/s640/IMG_5990.JPG)
+[![](roadside-selfie.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi03dGosWIIizhCwrVPXWMDYNDX5mqp_ANc1iwUe-b_qAWPvrG4rKbQ8x5YkMxXdl6xeT5bJwvvxFe1L_xfUz07eegtHMs2D1agALwiqJn_qeMs-nh_Ls6S303JFtpXmGdu-9tHv4VAqxV8/s640/roadside-selfie.JPG)
 
 And a pretty college campus.
 
-[![](IMG_6063.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtr76f-8h33GC0jlf_FTqSXK3OyHD234mwDsOb0s8wCIK7gumiDENTzMOwg8Z-NI9Gs6OvFW-qN55SEK0HvNsydbS8609sYRqkCn4SYCjEWfF_ZJ3STg-auufmnCS9V4XYYL5G3B3uyeTk/s640/IMG_6063.JPG)
+[![](wyoming-banner.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtr76f-8h33GC0jlf_FTqSXK3OyHD234mwDsOb0s8wCIK7gumiDENTzMOwg8Z-NI9Gs6OvFW-qN55SEK0HvNsydbS8609sYRqkCn4SYCjEWfF_ZJ3STg-auufmnCS9V4XYYL5G3B3uyeTk/s640/wyoming-banner.JPG)
 
 And about 55 hours later, we stopped to pick up Dad.
 
-[![](IMG_6080.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzDmuZKXdcX5_krVRPvxPxlwZ4ByNwDPlY_tpLJ84qIHoMUc1Z2qM9mpCebvC59W_m_lk_pZzH2L8m9E-0fSsNu8Jq8wWWR0y757IAxj9kYkkbpFxWD_m5XCMi9OlCAevTzm11Y1UOeq3x/s640/IMG_6080.JPG)
+[![](waving-selfie.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzDmuZKXdcX5_krVRPvxPxlwZ4ByNwDPlY_tpLJ84qIHoMUc1Z2qM9mpCebvC59W_m_lk_pZzH2L8m9E-0fSsNu8Jq8wWWR0y757IAxj9kYkkbpFxWD_m5XCMi9OlCAevTzm11Y1UOeq3x/s640/waving-selfie.JPG)
 
 Susie came by to greet us. We strolled on the Dark Island Trail, enjoying baby bunnies and handsome horses along the way.
 
@@ -32,23 +32,23 @@ Susie came by to greet us. We strolled on the Dark Island Trail, enjoying baby b
 
 Then Dad and Jeff and I jumped into Dad's pickup and went the last 3 miles to the farm. The lawn looked great!
 
-[![](IMG_6145.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4UPf9HeXPfvcRHHjdISsxJWclfA8MAYEzs6C5EQEl-mSrz-UKlrmlCnVJRCGeT03syhW0g6yN8CoVH4BqRMAfH0jeB88xq69I9FYC_3yIt0q-dFPc4T6eamSPs90U78PEhpDdBOEcP_j/s640/IMG_6145.JPG)
+[![](farmhouse-front.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4UPf9HeXPfvcRHHjdISsxJWclfA8MAYEzs6C5EQEl-mSrz-UKlrmlCnVJRCGeT03syhW0g6yN8CoVH4BqRMAfH0jeB88xq69I9FYC_3yIt0q-dFPc4T6eamSPs90U78PEhpDdBOEcP_j/s640/farmhouse-front.JPG)
 
 And so did the corn. It was at least 7 feet high!
 
-[![](IMG_6181.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHF1CZw_3gTA6uDKoASyQXT867CGpROAiuhgg4C0S6YnW3CQfBTWmZN4TcUFJXIfsxD4dMn1Q1jCwr0PJl4EkLyr3hdIgwA1xi8gg4eNG7pnUE1UF-Ah03Zb0GKq-rL7UN0j-UV5HI9Mor/s640/IMG_6181.JPG)
+[![](cornfield-woman.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHF1CZw_3gTA6uDKoASyQXT867CGpROAiuhgg4C0S6YnW3CQfBTWmZN4TcUFJXIfsxD4dMn1Q1jCwr0PJl4EkLyr3hdIgwA1xi8gg4eNG7pnUE1UF-Ah03Zb0GKq-rL7UN0j-UV5HI9Mor/s640/cornfield-woman.JPG)
 
 In the road ditches near the house, we picked some wild onion...
 
-[![](IMG_6166.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuvj6SEZ9fHPX9MO-W1dysSK0cuEe7fxc7ZQregqYGZrMuMGRutTGSZbioI-uTDA1TvmJF3k9KUIOu_c0yo-igoEfaMG6mxbXcURBoqTfDHIikde9LVphuxYMtNR80lzR9f1a-EldlnEcT/s640/IMG_6166.JPG)
+[![](harvesting-seeds.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuvj6SEZ9fHPX9MO-W1dysSK0cuEe7fxc7ZQregqYGZrMuMGRutTGSZbioI-uTDA1TvmJF3k9KUIOu_c0yo-igoEfaMG6mxbXcURBoqTfDHIikde9LVphuxYMtNR80lzR9f1a-EldlnEcT/s640/harvesting-seeds.JPG)
 
 to take home and plant.
 
-![](IMG_6165.JPG)
+![](seed-pods.JPG)
 
 But after 1600 miles, we needed to stretch our legs. So we headed out on the trail again.
 
-[![](IMG_6281.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYliShkVSjbU1eHgk8ssOWG_NCe7gSiHbWXBDtNpiyqB8PUupLlse81eJssWf-PM7vA2NlBs5Anl909Jhu2g53mWJ3h0m_TBIWcjhV49ewstllJcMJ_G97EVfK8amNWt5yje6Qgl3-gsUr/s640/IMG_6281.JPG)
+[![](dark-island-trail.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYliShkVSjbU1eHgk8ssOWG_NCe7gSiHbWXBDtNpiyqB8PUupLlse81eJssWf-PM7vA2NlBs5Anl909Jhu2g53mWJ3h0m_TBIWcjhV49ewstllJcMJ_G97EVfK8amNWt5yje6Qgl3-gsUr/s640/dark-island-trail.JPG)
 
 This time toward the river, along a quite popular route...
 
@@ -56,7 +56,7 @@ This time toward the river, along a quite popular route...
 
 until we reached the old railroad bridge across the Platte.
 
-[![](IMG_6219.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8nL767xCYVzWTdBQAKkmEI5ixVcQ2s9ZJII0SlDZSQt6vfh6bOCruqcZn4ldwFmOwM98R5ZRtB3MSRgMfWmzp5UQ8WvSmT7BwRgp2i0eXRH0z4hNYGJIc0edMWZKOAjoxV89dG-fAMb0x/s640/IMG_6219.JPG)
+[![](boardwalk-walk.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8nL767xCYVzWTdBQAKkmEI5ixVcQ2s9ZJII0SlDZSQt6vfh6bOCruqcZn4ldwFmOwM98R5ZRtB3MSRgMfWmzp5UQ8WvSmT7BwRgp2i0eXRH0z4hNYGJIc0edMWZKOAjoxV89dG-fAMb0x/s640/boardwalk-walk.JPG)
 
 To watch a beautiful sunset.
 
@@ -72,7 +72,7 @@ Goodnight, little toad on the trail!
 
 After a good sleep, we decided to meander more and see what we could find.
 
-[![](IMG_6190.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzrfoDPLTT-fudA4WwDoLR4YKU8aVK9pY8KewR5XSpRoyI_LKHPo5rhCc9lAynpna25_J_vxZ5qfqowRyArnLb01RjX4IzE-RjHsoobgAc43fYGoK6ABDCxJOzzmjVjzTZenPexzRSuW4T/s640/IMG_6190.JPG)
+[![](truck-cab-chat.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzrfoDPLTT-fudA4WwDoLR4YKU8aVK9pY8KewR5XSpRoyI_LKHPo5rhCc9lAynpna25_J_vxZ5qfqowRyArnLb01RjX4IzE-RjHsoobgAc43fYGoK6ABDCxJOzzmjVjzTZenPexzRSuW4T/s640/truck-cab-chat.JPG)
 
 First, of course, we gave the chickens some breakfast of fresh-cut grass and chopped tomatoes.
 
@@ -88,11 +88,11 @@ As usual, Dad also put us to work. We tied stakes to two young trees and fertili
 
 And then meandered some more, to a nearby buffalo ranch.
 
-[![](IMG_6182.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha-sZGlEYO_4B0W0UJGb_1BEn7biqL6Zg6Y6KACZs_2zFsBnl3iYT-pUzdXvCEyfrpERIv-Pcd4FnL2pqYMvBrQRKDabZ1PIAfsBcsBk0nuhq8TCR3NWRRku6O9-RmRxeacR96JIX_aH-Z/s640/IMG_6182.JPG)
+[![](bison-herd.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha-sZGlEYO_4B0W0UJGb_1BEn7biqL6Zg6Y6KACZs_2zFsBnl3iYT-pUzdXvCEyfrpERIv-Pcd4FnL2pqYMvBrQRKDabZ1PIAfsBcsBk0nuhq8TCR3NWRRku6O9-RmRxeacR96JIX_aH-Z/s640/bison-herd.JPG)
 
 Back home, we made sandwiches with Dad's tomatoes.
 
-[![](IMG_6172.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg_V32rrakkZcvuYv7yalKcJA9j2vV3O9PvXRc7_7GHIYvfZDLPvTODMygxRiY2RBLOUM3508x9EDUzmxZHeCBGqBkQ-rJrhIzLcwO7t2N0hRIs386ufk7R8vfH2cnB21GEZ1RE4UvRRts/s640/IMG_6172.JPG)
+[![](windowsill-tomatoes.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg_V32rrakkZcvuYv7yalKcJA9j2vV3O9PvXRc7_7GHIYvfZDLPvTODMygxRiY2RBLOUM3508x9EDUzmxZHeCBGqBkQ-rJrhIzLcwO7t2N0hRIs386ufk7R8vfH2cnB21GEZ1RE4UvRRts/s640/windowsill-tomatoes.JPG)
 
 Which he waters well every day.
 
@@ -104,19 +104,19 @@ And caught up with Cliff and Kathy, who biked by to say "hey!"
 
 The next day, we meandered 4 hours away, to Lake McConaughy.
 
-[![](IMG_6214.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJW6ixODQ1ji2qQUXNu58OE1uzMiTBGYGLrxcE9uBI0dS7thtElpXDeNuCjlcqP1NZMsrhr_KGDDhBa3LDvzZwJtAk9HgtY6SLKDMR81k5-Z9ygBx9zVZleA2sjgm59CfyS1Z358grd8v/s640/IMG_6214.JPG)
+[![](lake-group-selfie.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJW6ixODQ1ji2qQUXNu58OE1uzMiTBGYGLrxcE9uBI0dS7thtElpXDeNuCjlcqP1NZMsrhr_KGDDhBa3LDvzZwJtAk9HgtY6SLKDMR81k5-Z9ygBx9zVZleA2sjgm59CfyS1Z358grd8v/s640/lake-group-selfie.JPG)
 
  It was pretty.
 
-[![](IMG_6198.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz8znahrTECqVhV_ln9BU5Jt6VyKXkH7M9uEHzyjWaOtGGukehhFyM9MJKisIv8cSrt7utkYTU6mp_iaTkd2MLpd8P_6QSD5LV72mmFhUa5Dfzr6b4ve9YCql-iC-3fxP1jGin9w95gAaG/s640/IMG_6198.JPG)
+[![](lake-vista.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz8znahrTECqVhV_ln9BU5Jt6VyKXkH7M9uEHzyjWaOtGGukehhFyM9MJKisIv8cSrt7utkYTU6mp_iaTkd2MLpd8P_6QSD5LV72mmFhUa5Dfzr6b4ve9YCql-iC-3fxP1jGin9w95gAaG/s640/lake-vista.JPG)
 
 And packed! Everyone wants to be outdoors.
 
-[![](IMG_6203.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nA_WjZvtbfyY3xmx0c6ScUIhnj92JB7Lll3441vLwMdpeCdg6EPSrVjbhDlOiVHlHbLwC_BtxkDb-tfvLKmLO7Rocrr3tcbnNFa3vLN0Q8NHDRSF8Yh5SQT7QKDWYCNZ7w9kxkySV00J/s640/IMG_6203.JPG)
+[![](lake-beach.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nA_WjZvtbfyY3xmx0c6ScUIhnj92JB7Lll3441vLwMdpeCdg6EPSrVjbhDlOiVHlHbLwC_BtxkDb-tfvLKmLO7Rocrr3tcbnNFa3vLN0Q8NHDRSF8Yh5SQT7QKDWYCNZ7w9kxkySV00J/s640/lake-beach.JPG)
 
 Luckily, the visitors center required masks, so we felt safe inside when nature called.
 
-[![](IMG_6193.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTVR1wfjuV3QvI4I0ZI1sRGgIbkhrKazWuOC-jJ4jFFr5br5akPjrPjIdv07bGMawe7uttd253OV_Kd17rqT30kSW9OLPt-WOdVLWH-rx0aylyUZqtK4kPknr07W8P6Rd9hyjq9wCOBiZ/s640/IMG_6193.JPG)
+[![](masked-selfie.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTVR1wfjuV3QvI4I0ZI1sRGgIbkhrKazWuOC-jJ4jFFr5br5akPjrPjIdv07bGMawe7uttd253OV_Kd17rqT30kSW9OLPt-WOdVLWH-rx0aylyUZqtK4kPknr07W8P6Rd9hyjq9wCOBiZ/s640/masked-selfie.JPG)
 
 Back home, Susie came by to visit again. We headed back out to the river bridge.
 
