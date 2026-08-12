@@ -2,7 +2,7 @@
 """
 convert_blogger.py - Blogger Atom XML Feed to Hugo Markdown Converter
 
-Converts Google Takeout export for 'Peachy Keen Green':
+Converts Google Takeout export for 'Schank Farm':
 - Reads feed.atom and images/ in the project root.
 - Uses tools/image_hash_map.json (built by process_hashed_images.py) for exact URL -> file mapping.
 - Converts HTML content to clean Markdown format without Blogger table/style clutter.

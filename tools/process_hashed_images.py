@@ -7,9 +7,9 @@ process_hashed_images.py
    - Generates a descriptive filename: <slug>-img-1.jpg, <slug>-img-2.jpg, etc.
    - Downloads the image at full resolution (=s0).
    - Computes the MD5 file signature.
-   - Checks if a file in peachy/images/ already has the exact same MD5 signature.
+   - Checks if a file in /images/ already has the exact same MD5 signature.
      If matched, renames/copies the local file to <slug>-img-N.jpg and discards download.
-     If not matched, saves the downloaded file as peachy/images/<slug>-img-N.jpg.
+     If not matched, saves the downloaded file as /images/<slug>-img-N.jpg.
 3. Builds an exact url_to_clean_filename map for convert_blogger.py.
 """
 

@@ -2,9 +2,9 @@
 """
 cleanup_unused_images.py
 
-1. Scans all converted Markdown post files in peachy/src/*.md to find all referenced image filenames.
-2. Identifies any image files in peachy/images/ that are NOT referenced in any post.
-3. Moves unused image files (and their .json sidecars) into peachy/images/unused/.
+1. Scans all converted Markdown post files in /src/*.md to find all referenced image filenames.
+2. Identifies any image files in /images/ that are NOT referenced in any post.
+3. Moves unused image files (and their .json sidecars) into /images/unused/.
 """
 
 import os

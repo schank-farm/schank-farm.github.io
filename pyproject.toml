@@ -3,13 +3,13 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "peachy-keen-green-tools"
+name = "schank-farm-tools"
 version = "0.1.0"
 description = "Blogger Takeout feed converter and static site build tools for Hugo"
 readme = "README.md"
 requires-python = ">=3.13"
 authors = [
-    { name = "Peachy Keen Green" }
+    { name = "Schank Farm" }
 ]
 keywords = ["blogger", "hugo", "static-site-generator", "atom-feed", "takeout", "recipe-blog"]
 dependencies = []
