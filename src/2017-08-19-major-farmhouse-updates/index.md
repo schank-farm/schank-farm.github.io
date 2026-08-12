@@ -7,7 +7,7 @@ draft: false
 categories: ["Landscaping", "House"]
 aliases: ["/2017/08/major-farmhouse-updates.html"]
 featured_image: "IMG_0215.jpg"
-description: "Farmhouse upgrades underway recipe."
+description: "Farmhouse upgrades underway."
 ---
 
 We pulled out the old overgrown bushes, added dirt and rock around the house, upgraded the sprinkler irrigation system, pulled out the old broken cement porches and sidewalks, poured new sidewalks and built new wood porches, put on new doors, and (after this photo), put on a new roof. Whew! See also [photos of the original homestead in 1875 and this house when it was built in 1949](https://schankfarm.blogspot.com/2015/03/the-farm-and-house-in-1949.html).

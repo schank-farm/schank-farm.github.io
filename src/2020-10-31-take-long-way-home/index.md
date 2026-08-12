@@ -7,7 +7,7 @@ draft: false
 categories: ["Trip"]
 aliases: ["/2020/11/take-long-way-home.html"]
 featured_image: "IMG_7275.jpg"
-description: "Take the Long Way Home recipe."
+description: "Take the Long Way Home."
 ---
 
 (Written while listening to [Supertramp](https://www.youtube.com/watch?v=7btmeE8Ewa8))

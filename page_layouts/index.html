@@ -12,9 +12,9 @@
     <p id="searchCountText" style="color: var(--muted-color); font-size: 1.1rem;"></p>
   </div>
 
-  <div class="recipe-grid" id="recipeGrid">
+  <div class="blog-grid" id="blogGrid">
     {{ range .Site.RegularPages }}
-      {{ partial "recipe-card.html" . }}
+      {{ partial "blog-card.html" . }}
     {{ end }}
   </div>
 </section>
@@ -33,7 +33,7 @@
       const banner = document.getElementById("searchResultsBanner");
       const queryTerm = document.getElementById("searchQueryTerm");
       const countText = document.getElementById("searchCountText");
-      const grid = document.getElementById("recipeGrid");
+      const grid = document.getElementById("blogGrid");
 
       if (banner && queryTerm) {
         queryTerm.textContent = query;
@@ -59,9 +59,9 @@
           const matchingPermalinks = new Set(results.map(r => r.item.permalink));
 
           let matchCount = 0;
-          const cards = grid.querySelectorAll(".recipe-card");
+          const cards = grid.querySelectorAll(".blog-card");
           cards.forEach(card => {
-            const link = card.querySelector(".recipe-card-title a");
+            const link = card.querySelector(".blog-card-title a");
             if (link) {
               const href = link.getAttribute("href");
               if (matchingPermalinks.has(href)) {

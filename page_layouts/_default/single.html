@@ -1,13 +1,13 @@
 {{ define "main" }}
 <article>
-  <div class="recipe-single-header">
-    <div class="recipe-single-categories">
+  <div class="blog-single-header">
+    <div class="blog-single-categories">
       {{ range .Params.categories }}
         <a href="/categories/{{ . | urlize }}/" class="category-pill">{{ . }}</a>
       {{ end }}
     </div>
-    <h1 class="recipe-single-title">{{ .Title }}</h1>
-    <div class="recipe-single-meta">
+    <h1 class="blog-single-title">{{ .Title }}</h1>
+    <div class="blog-single-meta">
       <span>
         Published on <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
         {{ with .Params.lastmod }}

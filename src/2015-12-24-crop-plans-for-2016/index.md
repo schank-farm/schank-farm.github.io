@@ -7,7 +7,7 @@ draft: false
 categories: ["Chickens", "Corn", "Planting", "Soybeans"]
 aliases: ["/2015/12/crop-plans-for-2016.html"]
 featured_image: "IMG_1524.JPG"
-description: "Crop planning recipe."
+description: "Crop planning."
 ---
 
 Keith

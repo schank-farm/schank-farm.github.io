@@ -7,7 +7,7 @@ draft: false
 categories: ["Corn", "Planting"]
 aliases: ["/2013/05/first-corn-planting.html"]
 featured_image: "IMG_2840.jpg"
-description: "First corn planting recipe."
+description: "First corn planting."
 ---
 
 Jeff inspects the first planting. It's a decent stand.

@@ -7,7 +7,7 @@ draft: false
 categories: ["Corn", "Soybeans"]
 aliases: ["/2016/07/thrilled.html"]
 featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQbKVe6v7l95jfxsGLdlFfI8vcU9zyxW4Ba-ztIEVD9zFxpo8k0qDWrRdu3BeXVj7YM9sxswffDuXpYkUuclp4XYNJITgL4AMxFYvbjDc2wWBCW6TXfcEkO6YQpOAgXQTEeKw-6x0t4dy/s640/image3+%25281%2529.jpg"
-description: "Thrilled recipe."
+description: "Thrilled."
 ---
 
 Keith says:

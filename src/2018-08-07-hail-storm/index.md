@@ -7,7 +7,7 @@ draft: false
 categories: ["Soybeans"]
 aliases: ["/2018/08/hail-storm.html"]
 featured_image: "DkV42aoV4AAGrXT.jpeg"
-description: "Hail storm recipe."
+description: "Hail storm."
 ---
 
 A hail and wind storm hit on August 6, the night before I arrived. The main path of the storm traveled from the northwest to the southeast, completely totaling farms in it's path. About 1.5 miles west of our farm, fields were totaled (top). One mile east of us, there was no damage (middle, how beans should look). Ours (bottom) were tangled by wind, and a few leaves stripped. Estimate is about 20% loss. The same thing happened 4 yrs ago. Are we bordering a new hail alley?

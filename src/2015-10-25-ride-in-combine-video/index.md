@@ -7,7 +7,7 @@ draft: false
 categories: ["Harvest", "Corn"]
 aliases: ["/2015/10/ride-in-combine-video.html"]
 featured_image: ""
-description: "Ride in the combine (video) recipe."
+description: "Ride in the combine (video)."
 ---
 
 Loved my first ride in the combine, and learning about all the technology they use. These machines are so sophisticated! The heads push the crops toward a cutter, and then the cobs are conveyed to a threshing drum that beats them to break and shake the kernels away. The stalks and chaff are separated from the grain, which goes into a tank. When the tank is full, the driver can switch on an elevator to shoot it out of a pipe into a trailer that someone else (in this case, Keith) drives alongside the combine.

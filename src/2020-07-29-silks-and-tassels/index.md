@@ -7,7 +7,7 @@ draft: false
 categories: ["Corn"]
 aliases: ["/2020/07/silks-and-tassels.html"]
 featured_image: "IMG_6300.JPG"
-description: "Silks & Tassels recipe."
+description: "Silks & Tassels."
 ---
 
 (Part 2 of [Drive out to the Farm](https://schankfarm.blogspot.com/2020/07/drive-to-farm.html))

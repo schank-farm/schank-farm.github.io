@@ -7,7 +7,7 @@ draft: false
 categories: ["Trip", "Eclipse"]
 aliases: ["/2017/08/the-bridge-to-totality-eclipse-2017.html"]
 featured_image: "IMG_6744.jpg"
-description: "The bridge to totality (eclipse) recipe."
+description: "The bridge to totality (eclipse)."
 ---
 
 Woo hooo, the August 21, 2017 total eclipse went right through our town. We walked from Dad's house to the Platte River bridge on Dark Island Trail to experience totality. OMG IT WAS AMAZING.

@@ -7,7 +7,7 @@ draft: false
 categories: ["Harvest", "Corn"]
 aliases: ["/2019/10/2019-harvest-automation-sound-of-corn.html"]
 featured_image: "maiya.jpg"
-description: "2019 Harvest: Automation & the Sound of Corn recipe."
+description: "2019 Harvest: Automation & the Sound of Corn."
 ---
 
 It's harvest time!

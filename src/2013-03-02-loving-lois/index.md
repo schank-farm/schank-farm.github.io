@@ -7,7 +7,7 @@ draft: false
 categories: ["History"]
 aliases: ["/2013/03/loving-lois.html"]
 featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfc20wKvRaV4dHYj-abAV_LUSxI3n2gbBj2MSLJRf1or8ZS-IqRuLNQL4S24Sp19jzCmpMhklYDNcLd7iq8uO1VhITRNelmbnkcmUjmA1hBHQqNJXBSzNOWLxlJi2xtGX6vw2Lq4_KtYkf/"
-description: "Loving Lois recipe."
+description: "Loving Lois."
 ---
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfc20wKvRaV4dHYj-abAV_LUSxI3n2gbBj2MSLJRf1or8ZS-IqRuLNQL4S24Sp19jzCmpMhklYDNcLd7iq8uO1VhITRNelmbnkcmUjmA1hBHQqNJXBSzNOWLxlJi2xtGX6vw2Lq4_KtYkf/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfc20wKvRaV4dHYj-abAV_LUSxI3n2gbBj2MSLJRf1or8ZS-IqRuLNQL4S24Sp19jzCmpMhklYDNcLd7iq8uO1VhITRNelmbnkcmUjmA1hBHQqNJXBSzNOWLxlJi2xtGX6vw2Lq4_KtYkf/)Mom passed away on Sunday after a battle with cancer.

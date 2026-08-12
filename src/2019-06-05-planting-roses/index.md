@@ -7,7 +7,7 @@ draft: false
 categories: ["Landscaping", "House"]
 aliases: ["/2019/06/planting-roses.html"]
 featured_image: "IMG_2590.jpg"
-description: "Planting roses & landscaping recipe."
+description: "Planting roses & landscaping."
 ---
 
 The house and lawn have [come a long way in the past two years](https://schankfarm.blogspot.com/2017/08/major-farmhouse-updates.html). Dad and my brother Jeff have fertilized the lawn regularly, and I planted small bushes including Goldflame Spirea around the house. Dad and Jeff also planted a little orchard of fruit trees (apple, cherry, peach) in the north and east lawns.

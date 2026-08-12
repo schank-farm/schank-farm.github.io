@@ -1,4 +1,4 @@
-<div class="recipe-card">
+<div class="blog-card">
   {{ $imgSrc := "" }}
   {{ if .Params.featured_image }}
     {{ $res := .Resources.GetMatch .Params.featured_image }}
@@ -11,27 +11,27 @@
     {{ end }}
   {{ end }}
   {{ if $imgSrc }}
-  <div class="recipe-card-img-wrapper">
+  <div class="blog-card-img-wrapper">
     <a href="{{ .RelPermalink }}">
-      <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="recipe-card-img" loading="lazy" />
+      <img src="{{ $imgSrc }}" alt="{{ .Title }}" class="blog-card-img" loading="lazy" />
     </a>
   </div>
   {{ end }}
-  <div class="recipe-card-body">
-    <div class="recipe-card-meta">
+  <div class="blog-card-body">
+    <div class="blog-card-meta">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 02, 2006" }}</time>
-      <div class="recipe-card-categories">
+      <div class="blog-card-categories">
         {{ range .Params.categories }}
         <a href="/categories/{{ . | urlize }}/" class="category-pill">{{ . }}</a>
         {{ end }}
       </div>
     </div>
-    <h3 class="recipe-card-title">
+    <h3 class="blog-card-title">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h3>
-    <div class="recipe-card-excerpt">
-      <a href="{{ .RelPermalink }}" class="recipe-card-excerpt-link">
-        <p class="recipe-card-excerpt-text">{{ .Summary | plainify | truncate 200 "..." }}</p>
+    <div class="blog-card-excerpt">
+      <a href="{{ .RelPermalink }}" class="blog-card-excerpt-link">
+        <p class="blog-card-excerpt-text">{{ .Summary | plainify | truncate 200 "..." }}</p>
       </a>
     </div>
   </div>

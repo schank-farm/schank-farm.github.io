@@ -7,7 +7,7 @@ draft: false
 categories: ["Harvest"]
 aliases: ["/2015/10/helping-harvest.html"]
 featured_image: "IMG_0132.jpg"
-description: "\"Helping\" harvest recipe."
+description: "\"Helping\" harvest."
 ---
 
 With our farmer, Keith, "helping" harvest 25 acres.

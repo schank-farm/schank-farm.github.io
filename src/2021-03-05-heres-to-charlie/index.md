@@ -7,7 +7,7 @@ draft: false
 categories: ["History"]
 aliases: ["/2021/03/heres-to-charlie.html"]
 featured_image: "screenshot_3305.png"
-description: "Here's to Charlie recipe."
+description: "Here's to Charlie."
 ---
 
 Dad passed away unexpectedly yesterday. He was a thoughtful, funny, healthy, and active 97 years young. We loved him so much. The last thing he said on the phone that evening to Jeff was that he was so incredibly lucky to have us kids. He always said that he was damn lucky.

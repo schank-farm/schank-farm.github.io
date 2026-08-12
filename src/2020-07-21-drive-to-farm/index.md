@@ -7,7 +7,7 @@ draft: false
 categories: ["Trip"]
 aliases: ["/2020/07/drive-to-farm.html"]
 featured_image: "IMG_5919.jpg"
-description: "Drive out to the Farm recipe."
+description: "Drive out to the Farm."
 ---
 
 [Jeff](https://biology.ucdavis.edu/people/jeff-schank) and I decided to take a drive out to the farm.

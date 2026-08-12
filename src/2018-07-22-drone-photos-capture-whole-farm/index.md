@@ -7,7 +7,7 @@ draft: false
 categories: ["Planting", "Drone"]
 aliases: ["/2018/07/drone-photos-capture-whole-farm.html"]
 featured_image: "image1.jpg"
-description: "Drone photos of the farm recipe."
+description: "Drone photos of the farm."
 ---
 
 Keith got a drone! He says,

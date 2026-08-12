@@ -7,7 +7,7 @@ draft: false
 categories: ["Harvest", "Corn"]
 aliases: ["/2017/11/catching-up-to-catch-corn-with-video.html"]
 featured_image: "IMG_8137.jpg"
-description: "Catching up to catch the corn (with video) recipe."
+description: "Catching up to catch the corn (with video)."
 ---
 
 The harvest of 2017 - see the [full youtube playlist](https://www.youtube.com/watch?v=fQ9j-_BzXFY&list=PLwOg8z7KeiqZGblAPATamsJmiIrUefPYI).

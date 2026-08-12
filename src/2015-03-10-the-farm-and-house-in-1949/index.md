@@ -7,7 +7,7 @@ draft: false
 categories: ["History", "House"]
 aliases: ["/2015/03/the-farm-and-house-in-1949.html"]
 featured_image: "original-house.png"
-description: "The Farm and House in 1949 recipe."
+description: "The Farm and House in 1949."
 ---
 
 Courtney, who (with her husband) rents our house, shared some photos with me from her mom's photo album from 1949! Small world: Courtney is the great granddaughter of Alfred Kohtz, who Dad bought the house and farm from in the early 1960's. That's why Courtney so wanted to live here, and contacted us when she learned from her uncle Lowell that we planned to rent out the house.**

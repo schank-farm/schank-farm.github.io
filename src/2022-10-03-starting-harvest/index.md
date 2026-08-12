@@ -7,7 +7,7 @@ draft: false
 categories: []
 aliases: ["/2022/09/starting-harvest.html"]
 featured_image: "starting-harvest-img-1.jpg"
-description: "Starting Harvest recipe."
+description: "Starting Harvest."
 ---
 
 Keith says, "I thought I’d share that we started picking on your farm late yesterday afternoon. It seems like really good corn so far! It is also coming out really dry, I think one load I hauled in today was 14.8% moisture. I haven’t gotten to take many pictures of the harvest but I managed to get 2 last night so I will include them.  First picture is our very first pass though the field second picture I just thought the sunset looked neat with the combine." (The photos are actually reversed below, because sunset!)

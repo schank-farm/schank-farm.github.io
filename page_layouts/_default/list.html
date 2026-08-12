@@ -4,9 +4,9 @@
   <p class="lead" style="color: var(--muted-color);">Browsing {{ len .Pages }} articles in this section.</p>
 </div>
 
-<div class="recipe-grid">
+<div class="blog-grid">
   {{ range .Pages }}
-    {{ partial "recipe-card.html" . }}
+    {{ partial "blog-card.html" . }}
   {{ end }}
 </div>
 {{ end }}

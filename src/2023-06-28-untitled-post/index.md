@@ -7,7 +7,7 @@ draft: true
 categories: []
 aliases: []
 featured_image: ""
-description: "Untitled Post recipe."
+description: "Untitled Post."
 ---
 
 

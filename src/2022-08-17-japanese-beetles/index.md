@@ -7,7 +7,7 @@ draft: false
 categories: ["Corn", "House"]
 aliases: ["/2022/08/japanese-beetles.html"]
 featured_image: "japanese-beetles-img-1.jpg"
-description: "Japanese Beetles recipe."
+description: "Japanese Beetles."
 ---
 
 Keith wrote that it's been really hot and dry, and they've had almost no breaks from irrigation, but the crops that have been getting water look pretty good. Luckily we have a very high water table under our farm.

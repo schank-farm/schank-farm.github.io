@@ -7,7 +7,7 @@ draft: false
 categories: ["Shed", "House"]
 aliases: ["/2017/04/little-red-pump-house.html"]
 featured_image: "IMG_5493.jpg"
-description: "Little red pump house recipe."
+description: "Little red pump house."
 ---
 
 Keith ordered some iron, and he and his dad built a replacement shed for the south well. Before building, we talked about colors and decided red with white trim would be cute. (Red *is* the Swedish way.) They did an awesome job! Dad says it's the best looking pump house in the county.

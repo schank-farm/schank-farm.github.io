@@ -7,7 +7,7 @@ draft: false
 categories: ["Harvest", "Soybeans"]
 aliases: ["/2018/09/harvesting-soybeans.html"]
 featured_image: "Cutting-Soybeans-Sept-2018.JPG"
-description: "Harvesting Soybeans recipe."
+description: "Harvesting Soybeans."
 ---
 
 Keith is harvesting the soybeans today! He says, "They actually aren't too bad considering what they have been through. They still might actually make 80bu an acre."

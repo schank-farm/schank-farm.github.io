@@ -296,7 +296,7 @@ def convert_feed():
         else:
             yaml_lines.append("aliases: []")
         yaml_lines.append(f"featured_image: {json.dumps(featured_image)}")
-        yaml_lines.append(f"description: {json.dumps(description or f'{title} recipe.')}")
+        yaml_lines.append(f"description: {json.dumps(description or f'{title}.')}")
         yaml_lines.append("---")
 
         full_md_content = "\n".join(yaml_lines) + "\n\n" + md_body + "\n"

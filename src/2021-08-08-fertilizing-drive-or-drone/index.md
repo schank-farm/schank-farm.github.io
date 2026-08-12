@@ -7,7 +7,7 @@ draft: false
 categories: ["Drone", "Soybeans"]
 aliases: ["/2021/08/fertilizing-drive-or-drone.html"]
 featured_image: "drone.jpg"
-description: "Fertilizing - Drive or Drone? recipe."
+description: "Fertilizing - Drive or Drone?."
 ---
 
 Keith shared some cool videos with us a couple of days ago while he was "applying fungicide, insecticide, molasses, and a foliar fertilizer" to the soybeans.

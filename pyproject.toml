@@ -11,7 +11,7 @@ requires-python = ">=3.13"
 authors = [
     { name = "Schank Farm" }
 ]
-keywords = ["blogger", "hugo", "static-site-generator", "atom-feed", "takeout", "recipe-blog"]
+keywords = ["blogger", "hugo", "static-site-generator", "atom-feed", "takeout", "blog"]
 dependencies = []
 
 [project.optional-dependencies]

@@ -7,7 +7,7 @@ draft: false
 categories: ["Corn", "Planting", "Stand", "Soybeans"]
 aliases: ["/2016/06/a-nice-stand.html"]
 featured_image: "image1.jpg"
-description: "A nice stand recipe."
+description: "A nice stand."
 ---
 
 Keith says, "

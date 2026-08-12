@@ -7,7 +7,7 @@ draft: false
 categories: ["Chickens", "Cows"]
 aliases: ["/2019/11/til-cows-come-home.html"]
 featured_image: "IMG_4476.jpg"
-description: "'Til the Cows Come Home recipe."
+description: "'Til the Cows Come Home."
 ---
 
 Why can't you stay up until the cows come home? Because it's pasture bedtime!

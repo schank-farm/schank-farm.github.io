@@ -7,7 +7,7 @@ draft: false
 categories: ["Flooding"]
 aliases: ["/2019/03/they-think-they-can-drive.html"]
 featured_image: "image1.jpeg"
-description: "Bomb cyclone; they think they can drive recipe."
+description: "Bomb cyclone; they think they can drive."
 ---
 
 A "bomb cyclone" caused huge [flooding in Nebraska](https://www.npr.org/2019/03/21/705408364/nebraska-faces-over-1-3-billion-in-flood-losses). Our area faired pretty well, but 10 miles north of us was hit hard.
