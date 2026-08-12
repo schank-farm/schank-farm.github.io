@@ -6,7 +6,7 @@ lastmod: "2019-08-30T19:34:09.250Z"
 draft: false
 categories: ["Flooding"]
 aliases: ["/2019/03/they-think-they-can-drive.html"]
-featured_image: "image1.jpeg"
+featured_image: "corn-husk-silk.jpeg"
 description: "Bomb cyclone; they think they can drive."
 ---
 
@@ -26,4 +26,4 @@ I thought you might appreciate this picture I took yesterday with the two
 
  dogs. They think they can drive."
 
-[![](image1.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvD_EfUTRmIhU3yoUiI9aNCl4LU3oeaIZW8Xe90oIRRxKITsuqNtzna2yO3mBMVMtMj3p9npzJZKSVX8OE0HNWLTdUMriDh6YXerNV99O0gXUMMIjXL2tlrQivoS-KAhVPvQMOAKvYcOWI/s1600/image1.jpeg)
+[![Image1](corn-husk-silk.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvD_EfUTRmIhU3yoUiI9aNCl4LU3oeaIZW8Xe90oIRRxKITsuqNtzna2yO3mBMVMtMj3p9npzJZKSVX8OE0HNWLTdUMriDh6YXerNV99O0gXUMMIjXL2tlrQivoS-KAhVPvQMOAKvYcOWI/s1600/corn-husk-silk.jpeg)

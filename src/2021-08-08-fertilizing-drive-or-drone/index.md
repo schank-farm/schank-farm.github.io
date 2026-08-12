@@ -26,6 +26,6 @@ I text back that he's moving along at a good clip! "Somewhere between 16 and 17 
 
 With a tractor, he can carry a HUGE amount of fertilizer, though... how much liquid can a drone like that could carry? Sure would come in for lots of refills. Maybe the farmer would help with the refills, and have fun overseeing, remote flying, and/or watching? Or... go out for lunch?
 
-[![](drone.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQN1nzdrTNSz87uvmMPArAmJL2TzhKgbpyU4SS0611RDAxfra6YIiiwB9u5ry8nvDzHN5y0yutReeGGBS6DqrJFRVPAKtGZk7Kw5rJNVmtCcEDFs4KWPa1WU-1eQNPzVaTtM4eQqPRLXfj/s960/drone.jpg)
+[![Drone](drone.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQN1nzdrTNSz87uvmMPArAmJL2TzhKgbpyU4SS0611RDAxfra6YIiiwB9u5ry8nvDzHN5y0yutReeGGBS6DqrJFRVPAKtGZk7Kw5rJNVmtCcEDFs4KWPa1WU-1eQNPzVaTtM4eQqPRLXfj/s960/drone.jpg)
 
 Regardless, seems better than aerial application by a crop duster plane (more precise, less  unintentional coverage beyond your field) -- and easier than driving through crops if they get too tall!

@@ -17,7 +17,7 @@ For the last 40 years of her life, she managed the farm featured in this blog (w
 After Mom's death, Jeff and I decided we wanted to keep the farm. Dad really wanted us to keep it, and it was too hard to let go of the memories. So Dad loaned us the money to buy out our sisters.
 We knew the farm would give Dad something to do every day, and we could have an adventure with it and with him.
 
-[![](collage.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgACuzrcNtM-T3_4yFxOiJ0X9i4Fj42ujZe1GSMMv50rkpIzoxtGiMhUZZbOSopqPcEqM7tEglg2cEblSP3pQeNqQJDaet1xrK8Sth8aX_e83RfISRG2Fe1oc-JcjDO_c_01VqpkIcJxRjh/)
+[![Collage](collage.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgACuzrcNtM-T3_4yFxOiJ0X9i4Fj42ujZe1GSMMv50rkpIzoxtGiMhUZZbOSopqPcEqM7tEglg2cEblSP3pQeNqQJDaet1xrK8Sth8aX_e83RfISRG2Fe1oc-JcjDO_c_01VqpkIcJxRjh/)
 
 ## Obituary
 

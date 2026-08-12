@@ -16,9 +16,9 @@ We were the lucky ones. And fortunately, we let each other know every day. Dad n
 
 We weren't done with him yet. We figured he'd make it well into his 100s.
 
-[![](screenshot_3305.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiaNh-uxwayeTOOfHURzOSD9096ZHmEbTugkcluNCraboj46ApEWZzZjzjr_IadQtxzirmFO8dvxsY8EuIgEWgoCVIoIX94p9uQdc-Tn-xZhRd2C2zNV3MN-OuzDhUeS4ueYCZtwWHi0Eo/)
+[![Screenshot 3305](screenshot_3305.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiaNh-uxwayeTOOfHURzOSD9096ZHmEbTugkcluNCraboj46ApEWZzZjzjr_IadQtxzirmFO8dvxsY8EuIgEWgoCVIoIX94p9uQdc-Tn-xZhRd2C2zNV3MN-OuzDhUeS4ueYCZtwWHi0Eo/)
 
-![](cheers2.jpg)
+![Cheers2](cheers2.jpg)
 
 When he didn't answer my usual 8:30 am call, I called Courtney and Susie. They both arrived 40 minutes later and together found him, already gone, in his bedroom. In the kitchen, a bucket of fresh-cut potatoes and scraps for the chickens was prepped to take to the farm. He left his truck running in the garage overnight and carbon monoxide seeped into his bathroom next to his bedroom.
 
