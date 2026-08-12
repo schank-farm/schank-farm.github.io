@@ -6,7 +6,7 @@ lastmod: "2026-02-13T03:43:27.507Z"
 draft: false
 categories: ["History"]
 aliases: ["/2021/03/heres-to-charlie.html"]
-featured_image: "screenshot_3305.png"
+featured_image: "charlie-toast.png"
 description: "Here's to Charlie."
 ---
 
@@ -16,9 +16,9 @@ We were the lucky ones. And fortunately, we let each other know every day. Dad n
 
 We weren't done with him yet. We figured he'd make it well into his 100s.
 
-[![Screenshot 3305](screenshot_3305.png)](screenshot_3305.png)
+[![Charlie Toasting](charlie-toast.png)](charlie-toast.png)
 
-![Cheers2](cheers2.jpg)
+![Patti Charlie Cheers](patti-charlie-cheers.jpg)
 
 When he didn't answer my usual 8:30 am call, I called Courtney and Susie. They both arrived 40 minutes later and together found him, already gone, in his bedroom. In the kitchen, a bucket of fresh-cut potatoes and scraps for the chickens was prepped to take to the farm. He left his truck running in the garage overnight and carbon monoxide seeped into his bathroom next to his bedroom.
 
