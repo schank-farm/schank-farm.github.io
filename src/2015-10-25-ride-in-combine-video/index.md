@@ -6,7 +6,7 @@ lastmod: "2019-08-30T23:37:31.117Z"
 draft: false
 categories: ["Harvest", "Corn"]
 aliases: ["/2015/10/ride-in-combine-video.html"]
-featured_image: ""
+featured_image: "https://img.youtube.com/vi/1VqGqOtfZ9E/hqdefault.jpg"
 description: "Ride in the combine (video)."
 ---
 

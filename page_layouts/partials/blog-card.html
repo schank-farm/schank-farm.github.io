@@ -4,10 +4,19 @@
     {{ $res := .Resources.GetMatch .Params.featured_image }}
     {{ if $res }}
       {{ $imgSrc = $res.RelPermalink }}
-    {{ else if hasPrefix .Params.featured_image "/" }}
+    {{ else if or (hasPrefix .Params.featured_image "/") (hasPrefix .Params.featured_image "http://") (hasPrefix .Params.featured_image "https://") }}
       {{ $imgSrc = .Params.featured_image }}
     {{ else }}
       {{ $imgSrc = printf "%s%s" .RelPermalink .Params.featured_image }}
+    {{ end }}
+  {{ else }}
+    {{/* Fallback: extract first YouTube video ID from RawContent and use its prime frame thumbnail */}}
+    {{ $ytMatches := findRE `\{\{<\s*youtube\s+["']?([a-zA-Z0-9_-]+)["']?\s*>\}\}` .RawContent 1 }}
+    {{ if gt (len $ytMatches) 0 }}
+      {{ $ytID := replaceRE `.*youtube\s+["']?([a-zA-Z0-9_-]+)["']?.*` "$1" (index $ytMatches 0) }}
+      {{ if $ytID }}
+        {{ $imgSrc = printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $ytID }}
+      {{ end }}
     {{ end }}
   {{ end }}
   {{ if $imgSrc }}

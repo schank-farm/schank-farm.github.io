@@ -6,7 +6,7 @@ lastmod: "2019-08-30T20:34:07.891Z"
 draft: false
 categories: ["Soybeans"]
 aliases: ["/2017/07/spraying-soybeans-music-technology.html"]
-featured_image: ""
+featured_image: "https://img.youtube.com/vi/nuJ68wDiffI/hqdefault.jpg"
 description: "Spraying the soybeans - music & technology enhanced farming."
 ---
 
