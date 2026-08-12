@@ -14,4 +14,4 @@ Keith got done picking corn on the farm today. He says, "It was really good (244
 
 :)
 
-[![Image1](corn-cob-cross-section.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCH9U015WJe1yjkkzuJ8XM7eaYvBSqahfuyIVYxkIk0YcCdSRYbozalO4-j5hz4xlZuSad0Evuw6GxzhtqO44XAu1b6l-qUWndG4u2YwdRk6Vu_wZ3UazaY7XEcU3kfbHTyQWHt72X2ozU/s1600/corn-cob-cross-section.jpeg)
+[![Image1](corn-cob-cross-section.jpeg)](corn-cob-cross-section.jpeg)

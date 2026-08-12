@@ -16,7 +16,7 @@ We were the lucky ones. And fortunately, we let each other know every day. Dad n
 
 We weren't done with him yet. We figured he'd make it well into his 100s.
 
-[![Screenshot 3305](screenshot_3305.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiaNh-uxwayeTOOfHURzOSD9096ZHmEbTugkcluNCraboj46ApEWZzZjzjr_IadQtxzirmFO8dvxsY8EuIgEWgoCVIoIX94p9uQdc-Tn-xZhRd2C2zNV3MN-OuzDhUeS4ueYCZtwWHi0Eo/)
+[![Screenshot 3305](screenshot_3305.png)](screenshot_3305.png)
 
 ![Cheers2](cheers2.jpg)
 

@@ -20,12 +20,12 @@ I mentioned that I read that the [Asian jumping worm](https://neinvasives.com/s
 
 Japanese beetle in the corn:
 
-[![Japanese Beetles Img 1](japanese-beetles-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEj9jtjpXH4xlcEVqUdy2NsCLlKj2WguXhl3TIXHlMbrvgD9M54Z-snBXawRY9Zid9HAHeHjenr2ESNF3XsJJiM9pzkcEmuDxruluH2_uPW0zDKDBmiKe1yAm3Hb7t_3WQ-Z2R6aCSpNmI84gYBL2iDTb7cQT6LT9eLAYyGavj4VjbnTRHT7MQcXxBTPbg)
+[![Japanese Beetles Img 1](japanese-beetles-img-1.jpg)](japanese-beetles-img-1.jpg)
 
 And a few photos from mid August:
 
-[![Image6](corn-ears-stalk.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9y-QeJdkRdaNNBwTGUMnePc6cG8P8k9rem-WtgCgzDEVzAjfcXaLMv3rKUL0oNz8v4-gwjwqYzW6CZhy1ufyzsQ65fqgPt-xto2tjXDM0LrVsLYCK_R6QKKoAMYwrZvxMQY9Gyl8pq9ef3zYR50-YmXWhh4FUVHa0joawOKDQQHXh-4KZWXhqgjkOQ/s640/corn-ears-stalk.jpeg)
+[![Image6](corn-ears-stalk.jpeg)](corn-ears-stalk.jpeg)
 
-[![Image3](green-corn-stalk.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimZemzTmYm--7v45L1Iaki_szC7Bu3tFq5AtFRsHqxTVwbmwjoc1v_MJUw9Ghke81gBbvl2M75YVfF_36B5wg7rRCZXIRMyOwWxyKynxOdtYS5klu5dUQWJtEizl1WSwDjyAI7bXa0jQAVvxDdtZHr6bE2BaPIyS6pbY_Sd0lm6Axw7w2Hem9c2Anz9A/s640/green-corn-stalk.jpeg)
+[![Image3](green-corn-stalk.jpeg)](green-corn-stalk.jpeg)
 
-[![Image4](corn-rows-sky.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUIWkbgKfCoieJX9mPC1v4tfocbi8H1oHd7Dnr1X-u4cSaFCsg6JSePSU-B2XqpikOAPYuVPEtrLSz6eHLyb2o17C5jkHwnN9lzVOGTNmDbCrYhOVZyYR-GjVIiq6xOngFdcNPZPRmzhuoD6MIFbABZb2uIsbntQI2aTUsUOE3Xy-PIJJlpOi-iusa1w/s640/corn-rows-sky.jpeg)
+[![Image4](corn-rows-sky.jpeg)](corn-rows-sky.jpeg)

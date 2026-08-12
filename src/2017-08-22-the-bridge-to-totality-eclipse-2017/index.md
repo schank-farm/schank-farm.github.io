@@ -14,14 +14,14 @@ Woo hooo, the August 21, 2017 total eclipse went right through our town. We walk
 
 Here is a [playlist on Youtube that shows us experiencing totality](https://www.youtube.com/watch?v=GnrM4NXrzYU&list=PLwOg8z7KeiqZdMfXQWLKZEEmcAnBfE7OR).
 
-[![Solar Eclipse Clouds](solar-eclipse-clouds.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7w2u_d0DA_5F4Dj3Xj6uEw3dia2MmU378if9xXwlyMey_SxWDzwKl8w-fKLcfOuhL159s8dE0fTALQ7V2GQYZtpP2g5PUUOCI6hZ89aEHcHN3-2RQf4YT-QiFaq4IG6KoZyZkZ3BqlA7w/s1600/solar-eclipse-clouds.jpg)
+[![Solar Eclipse Clouds](solar-eclipse-clouds.jpg)](solar-eclipse-clouds.jpg)
 
-[![Eclipse Glasses Bridge](eclipse-glasses-bridge.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1X9ANs5RCgOGk4eWeaCymYBzTiT6MMZV9VHbu9ppgVfGvNfezqWTAxpEoXwzJkuTkd5MQlMFaww0mLmYvBTqfN1u6v2mFgfDFOVZ0nW0Q9udstaZKZ8pYLPcDrzkkdSDxLPHs-bBaVUI_/s1600/eclipse-glasses-bridge.jpg)
+[![Eclipse Glasses Bridge](eclipse-glasses-bridge.jpg)](eclipse-glasses-bridge.jpg)
 
-[![Dimmed Sun Sky](dimmed-sun-sky.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Anli4iXNFZI2STKq165FzKDAOiBNCCkxAH4BOxTN1cI5mrmUOMs2f0p7tsjhe6JBCyXifzQXBL_m0eEV5tM2IyYDoe1mk8OA6o6tKNary4De6FLN5cG7BEJFbc7j6rSEPaejJL3DTEvs/s1600/dimmed-sun-sky.jpg)
+[![Dimmed Sun Sky](dimmed-sun-sky.jpg)](dimmed-sun-sky.jpg)
 
-[![Men On Bridge](men-on-bridge.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFh4W3CjpBxy5wv8K6BbcrQkk2v1s7LIuz9fLVLfolU9JUE92VVNjf8h4PG8PtubzzvEp8vDCicxQ2Z8NfR2ovhH51VXLUO-h9tfON_6xrKzbztuN5KtgicSBEZXqtanBseI6Vpked2je/s1600/men-on-bridge.jpg)
+[![Men On Bridge](men-on-bridge.jpg)](men-on-bridge.jpg)
 
 We enjoyed talking with some professional photographers along the trail; they came from Michigan to this spot to get time-lapse photos. They graciously gave me two digital photos a week later, and let us share them with others in the community. The photos are hanging on our walls, but I can't post them here because of the license. Come by sometime, and I'll show them to you!
 
-[![Observers In Field](observers-in-field.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisvVgjkRtcDrMVAsE7F4GvzpAvzLHMGZYdgROKcJRZoXZbRbgLIdNwqAaZj8fsm4SvbRpo4rJLe4nGonwpWaGCqwGFpiI_XqgUnBm-c7jFo8SnvPSdsl9_u0F74PBr0NmNNgdlbERNwb2l/s1600/observers-in-field.jpg)
+[![Observers In Field](observers-in-field.jpg)](observers-in-field.jpg)

@@ -14,20 +14,20 @@ A hail and wind storm hit on August 6, the night before I arrived. The main path
 
 Soybeans 1.5 west of our farm were totaled:
 
-[![Dkv42aov4aagrxt](DkV42aoV4AAGrXT.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH5fbykpYq-8t4FZ0Ubpja-BeJhQALNDRDWmoxVnN2CZwkpss9V-xzG6USK_TFd4h0MKzqC90qujaZzzDwOpiXMaQdV0m5hS7l3dIBQyAVjlEdunQLVfHsX_mCA0_Q-9FHoW152wHpGzZL/s1600/DkV42aoV4AAGrXT.jpeg)
+[![Dkv42aov4aagrxt](DkV42aoV4AAGrXT.jpeg)](DkV42aoV4AAGrXT.jpeg)
 
 One mile east of us, how soybeans should look:
 
-[![Dkv42bjvsaalitp](DkV42bJVsAAliTP.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieA-G623bZoOr-6SWeJt7h-XM8G8TAqWEsS1Br0hcIYrkN4W9cCi58u9Sb3-TSDtiaalkbwESkQlnB3LZwMV-F_UoNJOIvboayu4LpHzBOUZOXxzqXdtVipnQrk896IlETudAyogrT92ut/s1600/DkV42bJVsAAliTP.jpeg)
+[![Dkv42bjvsaalitp](DkV42bJVsAAliTP.jpeg)](DkV42bJVsAAliTP.jpeg)
 
 Keiths beautiful soybeans, tangled and some leaves stripped:
 
-[![Dkv42apvaaaolm9](DkV42apVAAAOlM9.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUtzdeWzaddH3PDaMtwFy87AzQWK18GPogZoc6uQS15ZuP9MFQOGIOQWk6mKIgBl5CLYGCvZTtLK3yQrgnF5_VAm4Gn0305Jq6FznxouTY6x7qjMWBm1_XPjjckM_8tTMigg8VRgjlt6NC/s1600/DkV42apVAAAOlM9.jpeg)
+[![Dkv42apvaaaolm9](DkV42apVAAAOlM9.jpeg)](DkV42apVAAAOlM9.jpeg)
 
 And some photos (later) of the farm from the air. Insurance assessed the corn as 40% damaged and the soybeans at 80% damaged (!). Keith's gorgeous beans would have totally yielded > 100 bushels/acre if this hadn't happened. The county average is 40 bu/acre.
 
-[![Image1](hail-pivot-field.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVzws0_OzW2o1e0cgBOcFy47W-nhGtz25u3OoNxsPBhB3EXqTfUbP-Ppm-1MO_O3B529NtH4ShD4hQ83JUPxtSKdooY0ML_Ygk_cNRBj_bUYTfefC88-Map8sxFo0O-SxUXJZREmHQTFJ7/s1600/image1.JPG)
+[![Image1](hail-pivot-field.jpg)](hail-pivot-field.jpg)
 
-[![Image2](hail-damaged-crop.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjzTi6tHZs2sY2I433tY_LB-NBZbKRZMYzursPHOh9L2uu2peEzuc37-1A2VMyL3Bx74JgpzHwe7DPGpfgGvFqqfq7ClnlC2Km1Pxt-dHFvWYrI-LvdJ4hVUN9xV4be3Fy742-JqB5g5vG/s1600/hail-damaged-crop.JPG)
+[![Image2](hail-damaged-crop.JPG)](hail-damaged-crop.JPG)
 
-[![Image3](hail-broken-cob.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoTZoQFpBkuXSPkNfBVNEct_gTN3kmRdoKIEHTmVft_uIXAWXVx72rGKQHSx8Z4YTfLggdxcPArZv0oU_I1D4lpio4VKRCUIFsM_ZWLFppk6u6rD7F7yaXEGEqRnvzX4BDtPbHI_kWT_ng/s1600/image3.JPG)
+[![Image3](hail-broken-cob.jpg)](hail-broken-cob.jpg)

@@ -6,7 +6,7 @@ lastmod: "2019-08-30T17:40:07.702Z"
 draft: false
 categories: ["Corn", "Soybeans"]
 aliases: ["/2016/07/thrilled.html"]
-featured_image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQbKVe6v7l95jfxsGLdlFfI8vcU9zyxW4Ba-ztIEVD9zFxpo8k0qDWrRdu3BeXVj7YM9sxswffDuXpYkUuclp4XYNJITgL4AMxFYvbjDc2wWBCW6TXfcEkO6YQpOAgXQTEeKw-6x0t4dy/s640/image3+%25281%2529.jpg"
+featured_image: "spraying-soybean-rows.jpg"
 description: "Thrilled."
 ---
 
@@ -40,6 +40,6 @@ on it and
 
 it will probably be white unless you would like it to be a different color.  I can get whatever color you guys would want."
 
-[![Image3+%25281%2529](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQbKVe6v7l95jfxsGLdlFfI8vcU9zyxW4Ba-ztIEVD9zFxpo8k0qDWrRdu3BeXVj7YM9sxswffDuXpYkUuclp4XYNJITgL4AMxFYvbjDc2wWBCW6TXfcEkO6YQpOAgXQTEeKw-6x0t4dy/s640/image3+%25281%2529.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQbKVe6v7l95jfxsGLdlFfI8vcU9zyxW4Ba-ztIEVD9zFxpo8k0qDWrRdu3BeXVj7YM9sxswffDuXpYkUuclp4XYNJITgL4AMxFYvbjDc2wWBCW6TXfcEkO6YQpOAgXQTEeKw-6x0t4dy/s1600/image3+%25281%2529.jpg)
+[![Spraying Soybean Rows](spraying-soybean-rows.jpg)](spraying-soybean-rows.jpg)
 
-[![Image1+%25281%2529](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2kxhOOoK1lVaNCxVSifmj5-nBMyGhyv-7rAJwJiH2aebTNBuYdFFoXu8xGDTlKA_Dq1W-h3obwWxYvW-bT41MD1tkrWIF_nYuGZf6FM3qzH65a5cP3XVbAObyfuycElprzomOxVN1dcU/s640/image1+%25281%2529.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2kxhOOoK1lVaNCxVSifmj5-nBMyGhyv-7rAJwJiH2aebTNBuYdFFoXu8xGDTlKA_Dq1W-h3obwWxYvW-bT41MD1tkrWIF_nYuGZf6FM3qzH65a5cP3XVbAObyfuycElprzomOxVN1dcU/s1600/image1+%25281%2529.jpg)
+[![Corn Field Tassels](corn-field-tassels.jpg)](corn-field-tassels.jpg)

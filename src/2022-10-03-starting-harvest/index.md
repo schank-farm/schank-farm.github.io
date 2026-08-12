@@ -14,9 +14,9 @@ Keith says, "I thought I’d share that we started picking on your farm late yes
 
 How nice would it be to have this sunset be your view from work?
 
-[![Starting Harvest Img 1](starting-harvest-img-1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiDS3C2n9G5sxo5YJjGk3ANL8vU-bMZJ8ofGrog_pTo_QRChUF94SLqoc728FiH3On0duPyl0-MousHk3cv6kmSwborf5QQI5dXFzATD2aNSjrUMDhC2fLEs4WGacSwwZ0OfOMzjVOUsV8BAiu-_0mNQUJv4J1DJw6db58uaGNH7NQHRmZkI75zwxZbfg)
+[![Starting Harvest Img 1](starting-harvest-img-1.jpg)](starting-harvest-img-1.jpg)
 
-[![Starting Harvest Img 2](starting-harvest-img-2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhOdudp5eByX70ys8amk3O0UfSMnico8mHDKxz2humnp4ebmC9UUi-awOIP5r5D19J_-aahbI08BPJMJ3AcwWX6W_6GB9uP85pMBPncXXdRCDWrjqq64TyF4vLbBoTPF6NclTbczr9nJx55f1lMP0QAwR3JbDDxfCfyBKsuuygRsdiQB_SSLnWAvl-esg)
+[![Starting Harvest Img 2](starting-harvest-img-2.jpg)](starting-harvest-img-2.jpg)
 
 Below is how the corn looked around September 26, when Keith started harvest on some dryland beans. When he pulled some ears out of our field around September 21, the moisture was 23.4%. The leaves were "unbelievably green" for that kind of moisture. That's at a level where they could store and dry it, or wait a week or two when it hits 18% and it can go right to town.
 
@@ -26,6 +26,6 @@ In a typical harvest, our 170 acre farm yields at least 40,000 bushels, which is
 
 The "unbelievably green" field around September 26, at 23.4% moisture:
 
-[![Starting Harvest Img 3](starting-harvest-img-3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgf8t6_vyT27cuBBNeLt3shAq12GkGNSFxa5jPfsa2H7lM7KPktWyG2jk5H0LR7KCijXejVUhyllUPyJdxBE1sREnwi3f0iz9dPJ-52zHMsqynNWkfSTODLWcjc5Gw6TtvxqOyKLu2d9Kmu-VRHwKFIz9FIwPJEkJnGZfC6euOFZZ1lUtlyFlLvjQECeg)
+[![Starting Harvest Img 3](starting-harvest-img-3.jpg)](starting-harvest-img-3.jpg)
 
-[![Starting Harvest Img 4](starting-harvest-img-4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjq-OvM65R2RjvMHwa6NW9w0aCFaBGFpwpxEWhoxoGRTSI897i-_UkLL2xCnABGcYTUFp3qrS0w9JX5Mqn5Z3Cdl6CyiM0ysAPgjrSntd84ws2BiXTb-jOwSWX6zY-XDUTr-x7zrAoABVZg7ATxJAwsDdC35VNL-aS90_DVhc_GfXyytC5yp6EkAAUCBg)
+[![Starting Harvest Img 4](starting-harvest-img-4.jpg)](starting-harvest-img-4.jpg)

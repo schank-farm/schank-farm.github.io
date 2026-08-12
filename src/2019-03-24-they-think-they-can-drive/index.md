@@ -26,4 +26,4 @@ I thought you might appreciate this picture I took yesterday with the two
 
  dogs. They think they can drive."
 
-[![Image1](corn-husk-silk.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvD_EfUTRmIhU3yoUiI9aNCl4LU3oeaIZW8Xe90oIRRxKITsuqNtzna2yO3mBMVMtMj3p9npzJZKSVX8OE0HNWLTdUMriDh6YXerNV99O0gXUMMIjXL2tlrQivoS-KAhVPvQMOAKvYcOWI/s1600/corn-husk-silk.jpeg)
+[![Image1](corn-husk-silk.jpeg)](corn-husk-silk.jpeg)
