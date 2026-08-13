@@ -6,7 +6,7 @@ lastmod: "2026-02-13T04:02:09.303Z"
 draft: false
 categories: ["History"]
 aliases: ["/2013/03/loving-lois.html"]
-featured_image: "lois-schank-portrait.jpg"
+featured_image: "lois-headshot.jpg"
 description: "Loving Lois."
 ---
 
