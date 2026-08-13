@@ -97,5 +97,4 @@ The development server serves the site at `http://localhost:8080/` and automatic
 The search system operates statically on GitHub Pages:
 
 - **Hugo Index Template**: `page_layouts/index.json` generates `docs/index.json` during site build.
-- **Search Execution**: Clicking the 🔍 icon in the header toggles the inline search field; pressing **Return / Enter** or clicking 🔍 submits `/?q=query`.
 - **Edge CDN**: Fuse.js is referenced via jsDelivr CDN (`https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js`) with `defer` for static client-side search.
