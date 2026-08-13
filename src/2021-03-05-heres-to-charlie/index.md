@@ -6,7 +6,7 @@ lastmod: "2026-02-13T03:43:27.507Z"
 draft: false
 categories: ["History"]
 aliases: ["/2021/03/heres-to-charlie.html"]
-featured_image: "charlie-headshot.png"
+featured_image: "charlie-headshot.jpg"
 description: "Here's to Charlie."
 ---
 
