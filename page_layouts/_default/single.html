@@ -6,7 +6,7 @@
         <a href="/categories/{{ . | urlize }}/" class="category-pill">{{ . }}</a>
       {{ end }}
     </div>
-    <h1 class="blog-single-title">{{ .Title }}</h1>
+    <h3 class="blog-single-title">{{ .Title }}</h3>
     <div class="blog-single-meta">
       <span>
         Published on <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>
