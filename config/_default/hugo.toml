@@ -2,6 +2,7 @@ baseURL = "/"
 title = "Schank Farm"
 locale = "en"
 summaryLength = 30
+disableHugoGeneratorInject = true
 
 contentDir = "src"
 layoutDir = "page_layouts"
