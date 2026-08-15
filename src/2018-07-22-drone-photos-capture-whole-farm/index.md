@@ -30,14 +30,14 @@ Here's a [video of the drone taking off](https://www.youtube.com/watch?v=3chDhrW
 
 North end looking south:
 
-[![Image1](drone-pivot-field.jpg)](drone-pivot-field.jpg)
+[![Drone North Looking South Over Pivot](drone-pivot-field.jpg)](drone-pivot-field.jpg)
 
-[![Image2](drone-corn-canopy.JPG)](drone-corn-canopy.JPG)
+[![Drone North Looking South](drone-north-looking-south.jpg)](drone-north-looking-south.jpg)
 
-[![Image3](drone-fields-road.jpg)](drone-fields-road.jpg)
+[![Drone Looking South by Road](drone-fields-road.jpg)](drone-fields-road.jpg)
 
 North end looking east:
 
-[![Image4](drone-field-intersection.jpg)](drone-field-intersection.jpg)
+[![Drone north looking east](drone-north-looking-east.jpg)](drone-north-looking-east.jpg)
 
-[![Image5](low-drone-corn-rows.jpg)](low-drone-corn-rows.jpg)
+[![Drone low corn rows](low-drone-corn-rows.jpg)](low-drone-corn-rows.jpg)
