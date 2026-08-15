@@ -2,7 +2,6 @@
 title: "Here's to Charlie"
 slug: "heres-to-charlie"
 date: "2021-03-05T20:37:00.156Z"
-lastmod: "2026-02-13T03:43:27.507Z"
 draft: false
 categories: ["History"]
 aliases: ["/2021/03/heres-to-charlie.html"]
@@ -10,7 +9,7 @@ featured_image: "charlie-headshot.jpg"
 description: "Here's to Charlie."
 ---
 
-Dad passed away unexpectedly yesterday. He was a thoughtful, funny, healthy, and active 97 years young. We loved him so much. The last thing he said on the phone that evening to Jeff was that he was so incredibly lucky to have us kids. He always said that he was damn lucky.
+Dad passed away unexpectedly yesterday, March 4. He was a thoughtful, funny, healthy, and active 97 years young. We loved him so much. The last thing he said on the phone that evening to Jeff was that he was so incredibly lucky to have us kids. He always said that he was damn lucky.
 
 We were the lucky ones. And fortunately, we let each other know every day. Dad never went a day without talking to his kids. I called him every morning and night, and usually a few times times during the day to check in and laugh and love.
 
@@ -32,7 +31,7 @@ Dad is at peace now, and we're the ones who need to work through it and come to 
 
 ## Dad's Jokes and Sayings
 
-Dad was such a quick wit. He loved to tease me about my slow driving. Sometimes I'd drive slow just so he'd come up with more one-liners. When I was driving us back to our condo in Jackson Hole after a short trip to Yellowstone,  he'd pipe up with a new line every minute or so. Our sides ached after the drive!
+Dad was such a quick wit. He loved to tease me about my slow driving. Sometimes I'd drive slow just so he'd come up with more one-liners. When I was driving us back to our condo in Jackson Hole after a short trip to Yellowstone, he'd pipe up with a new line every minute or so. Our sides ached after the drive!
 
 "Jeff, we don't have to worry about hitting elk, we have to worry about elk hitting us."
 "Jeff, is that the sun coming up in the east?"
@@ -63,8 +62,7 @@ For myself: Keep my health as good as possible.
 For family: Health and happiness for my family.
 For the world: I’d like to see a world where they melt all guns. Charge your enemy with pillows, and bags and bags of marshmallows.
 
-##
-Obituary
+## Obituary
 
 Charles Edward “Charlie” Schank, 97, of Central City, died at his home on Thursday, March 4. A private graveside service was held Wednesday, March 10, with family friend [Cliff Mesner](https://www.linkedin.com/in/cliff-mesner-4a35b726/) officiating.
 
