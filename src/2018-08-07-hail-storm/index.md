@@ -6,7 +6,7 @@ lastmod: "2019-08-30T20:05:41.416Z"
 draft: false
 categories: ["Soybeans"]
 aliases: ["/2018/08/hail-storm.html"]
-featured_image: "soybeans-west-totalled.jpg"
+featured_image: "soybeans-west-totaled.jpg"
 description: "Hail storm."
 ---
 
