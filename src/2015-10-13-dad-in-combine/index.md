@@ -6,7 +6,7 @@ lastmod: "2021-02-24T00:10:25.471Z"
 draft: false
 categories: ["Harvest"]
 aliases: ["/2015/10/dad-in-combine.html"]
-featured_image: "corn-cob-cross-section.jpeg"
+featured_image: "dad-in-the-combine.jpg"
 description: "Dad in the combine."
 ---
 
@@ -14,4 +14,4 @@ Keith got done picking corn on the farm today. He says, "It was really good (244
 
 :)
 
-[![Image1](corn-cob-cross-section.jpeg)](corn-cob-cross-section.jpeg)
+[![Dad in the combine](dad-in-the-combine.jpg)](dad-in-the-combine.jpg)

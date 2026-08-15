@@ -10,9 +10,7 @@ featured_image: "buckets-of-feed.JPG"
 description: "Crop planning."
 ---
 
-Keith
-
-shares some of his plans for crops next year:
+Keith shares some of his plans for crops next year:
 
 "I talked to the neighbors on the east side of the farm it sounds like they are not planting enogen corn around there. This is good news because that opens up the possibility that I may be able to grow white corn there! So I'm really excited about this possibility.
 
