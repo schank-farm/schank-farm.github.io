@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Drone on Schank Farm</title>
-		<link>/categories/drone/</link>
+		<link>https://schankfarm.com/categories/drone/</link>
 		<description>Recent content in Drone on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sun, 08 Aug 2021 03:47:00 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/drone/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/drone/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Fertilizing - Drive or Drone?</title>
-				<link>/fertilizing-drive-or-drone/</link>
+				<link>https://schankfarm.com/fertilizing-drive-or-drone/</link>
 				<pubDate>Sun, 08 Aug 2021 03:47:00 +0000</pubDate>
-				<guid>/fertilizing-drive-or-drone/</guid>
+				<guid>https://schankfarm.com/fertilizing-drive-or-drone/</guid>
 				<description>&lt;p&gt;Keith shared some cool videos with us a couple of days ago while he was &amp;ldquo;applying fungicide, insecticide, molasses, and a foliar fertilizer&amp;rdquo; to the soybeans.&lt;/p&gt;&#xA;&lt;p&gt;Molasses? Yes, &amp;ldquo;it helps feed the microbes in the soil and helps with photosynthesis,&amp;rdquo; Keith says. &amp;ldquo;I&amp;rsquo;ve probably ran close to 3 gal. an acre of sugar and molasses products on those. But that molasses also contains a little fertilizer in it.&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Drone photos of the farm</title>
-				<link>/drone-photos-capture-whole-farm/</link>
+				<link>https://schankfarm.com/drone-photos-capture-whole-farm/</link>
 				<pubDate>Sun, 22 Jul 2018 15:47:00 +0000</pubDate>
-				<guid>/drone-photos-capture-whole-farm/</guid>
+				<guid>https://schankfarm.com/drone-photos-capture-whole-farm/</guid>
 				<description>&lt;p&gt;Keith got a drone! He says,&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;We got the end gun fixed this afternoon.  I&amp;rsquo;m still waiting on the pivot dealer to come fix the leak in the middle but it will run how it is for now.  In other news your dad and I took some pictures earlier today. I&amp;rsquo;m&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Landscaping on Schank Farm</title>
-		<link>/categories/landscaping/</link>
+		<link>https://schankfarm.com/categories/landscaping/</link>
 		<description>Recent content in Landscaping on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Fri, 31 Jan 2020 00:09:03 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/landscaping/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/landscaping/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Planting roses &amp; landscaping</title>
-				<link>/planting-roses/</link>
+				<link>https://schankfarm.com/planting-roses/</link>
 				<pubDate>Wed, 05 Jun 2019 16:38:00 +0000</pubDate>
-				<guid>/planting-roses/</guid>
+				<guid>https://schankfarm.com/planting-roses/</guid>
 				<description>&lt;p&gt;The house and lawn have &lt;a href=&#34;https://schankfarm.blogspot.com/2017/08/major-farmhouse-updates.html&#34;&gt;come a long way in the past two years&lt;/a&gt;. Dad and my brother Jeff have fertilized the lawn regularly, and I planted small bushes including Goldflame Spirea around the house. Dad and Jeff also planted a little orchard of fruit trees (apple, cherry, peach) in the north and east lawns.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Farmhouse upgrades underway</title>
-				<link>/major-farmhouse-updates/</link>
+				<link>https://schankfarm.com/major-farmhouse-updates/</link>
 				<pubDate>Sat, 19 Aug 2017 05:46:00 +0000</pubDate>
-				<guid>/major-farmhouse-updates/</guid>
+				<guid>https://schankfarm.com/major-farmhouse-updates/</guid>
 				<description>&lt;p&gt;We pulled out the old overgrown bushes, added dirt and rock around the house, upgraded the sprinkler irrigation system, pulled out the old broken cement porches and sidewalks, poured new sidewalks and built new wood porches, put on new doors, and (after this photo), put on a new roof. Whew! See also &lt;a href=&#34;https://schankfarm.blogspot.com/2015/03/the-farm-and-house-in-1949.html&#34;&gt;photos of the original homestead in 1875 and this house when it was built in 1949&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 	</channel>

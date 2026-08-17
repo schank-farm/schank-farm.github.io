@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://schankfarm.com/"
 title = "Schank Farm"
 locale = "en"
 summaryLength = 30

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Flooding on Schank Farm</title>
-		<link>/categories/flooding/</link>
+		<link>https://schankfarm.com/categories/flooding/</link>
 		<description>Recent content in Flooding on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 30 Aug 2019 19:34:09 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/flooding/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/flooding/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Bomb cyclone; they think they can drive</title>
-				<link>/they-think-they-can-drive/</link>
+				<link>https://schankfarm.com/they-think-they-can-drive/</link>
 				<pubDate>Sun, 24 Mar 2019 05:06:00 +0000</pubDate>
-				<guid>/they-think-they-can-drive/</guid>
+				<guid>https://schankfarm.com/they-think-they-can-drive/</guid>
 				<description>&lt;p&gt;A &amp;ldquo;bomb cyclone&amp;rdquo; caused huge &lt;a href=&#34;https://www.npr.org/2019/03/21/705408364/nebraska-faces-over-1-3-billion-in-flood-losses&#34;&gt;flooding in Nebraska&lt;/a&gt;. Our area faired pretty well, but 10 miles north of us was hit hard.&lt;/p&gt;&#xA;&lt;p&gt;Keith says,&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Columbus is a mess from what I&amp;rsquo;ve heard and you can&amp;rsquo;t get to Fullerton very easily&amp;hellip; I wish I could have taken pictures of the Platte River the other day. Dad said he’s never seen the river so full&amp;hellip; We’ve been working on the planter lately. Hopefully it drys up enough we’ll be able to use it. No one around here has any field work done so it will be an awfully busy spring if it does dry out&amp;hellip;&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -1,0 +1,48 @@
+{{ $ogImage := "images/farm-logo.png" | absURL }}
+
+{{ if .IsPage }}
+  {{ if .Params.featured_image }}
+    {{ $res := .Resources.GetMatch .Params.featured_image }}
+    {{ if $res }}
+      {{ $ogImage = $res.Permalink }}
+    {{ else if or (hasPrefix .Params.featured_image "http://") (hasPrefix .Params.featured_image "https://") }}
+      {{ $ogImage = .Params.featured_image }}
+    {{ else if hasPrefix .Params.featured_image "/" }}
+      {{ $ogImage = .Params.featured_image | absURL }}
+    {{ else }}
+      {{ $ogImage = printf "%s%s" .Permalink .Params.featured_image }}
+    {{ end }}
+  {{ else }}
+    {{/* Fallback: extract first YouTube video thumbnail from RawContent */}}
+    {{ $ytMatches := findRE `\{\{<\s*youtube\s+["']?([a-zA-Z0-9_-]+)["']?\s*>\}\}` .RawContent 1 }}
+    {{ if gt (len $ytMatches) 0 }}
+      {{ $ytID := replaceRE `.*youtube\s+["']?([a-zA-Z0-9_-]+)["']?.*` "$1" (index $ytMatches 0) }}
+      {{ if $ytID }}
+        {{ $ogImage = printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $ytID }}
+      {{ end }}
+    {{ else }}
+      {{/* Check first image resource in page bundle */}}
+      {{ $imgs := .Resources.ByType "image" }}
+      {{ if gt (len $imgs) 0 }}
+        {{ $ogImage = (index $imgs 0).Permalink }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.subtitle }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.subtitle }}{{ end }}">
+<meta property="og:image" content="{{ $ogImage }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.subtitle }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.subtitle }}{{ end }}">
+<meta name="twitter:image" content="{{ $ogImage }}">

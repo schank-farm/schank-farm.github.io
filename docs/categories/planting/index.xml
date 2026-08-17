@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Planting on Schank Farm</title>
-		<link>/categories/planting/</link>
+		<link>https://schankfarm.com/categories/planting/</link>
 		<description>Recent content in Planting on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Wed, 24 Feb 2021 00:09:31 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/planting/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/planting/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Drone photos of the farm</title>
-				<link>/drone-photos-capture-whole-farm/</link>
+				<link>https://schankfarm.com/drone-photos-capture-whole-farm/</link>
 				<pubDate>Sun, 22 Jul 2018 15:47:00 +0000</pubDate>
-				<guid>/drone-photos-capture-whole-farm/</guid>
+				<guid>https://schankfarm.com/drone-photos-capture-whole-farm/</guid>
 				<description>&lt;p&gt;Keith got a drone! He says,&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;We got the end gun fixed this afternoon.  I&amp;rsquo;m still waiting on the pivot dealer to come fix the leak in the middle but it will run how it is for now.  In other news your dad and I took some pictures earlier today. I&amp;rsquo;m&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>A nice stand</title>
-				<link>/a-nice-stand/</link>
+				<link>https://schankfarm.com/a-nice-stand/</link>
 				<pubDate>Fri, 03 Jun 2016 04:39:00 +0000</pubDate>
-				<guid>/a-nice-stand/</guid>
+				<guid>https://schankfarm.com/a-nice-stand/</guid>
 				<description>&lt;p&gt;Keith says, &amp;ldquo;Everything is looking great so far.  I got the nitrogen on yesterday, just in time too.  It was just starting to get a yellow look to it.  All the rain and wet weather has been hard on a lot of crops around here.   The beans look pretty good too but I can tell I had a little herbicide damage on them.  I need to spray them again but need to put something in to kill the corn that&amp;rsquo;s coming up from losses last year and dad won&amp;rsquo;t let me put it in until we are done spraying the corn.  I hope you&amp;rsquo;ll be able to come see harvest again this fall.  Since you won&amp;rsquo;t be able to see the crops for awhile I will continue to take pictures and share them with you.&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Coming up!</title>
-				<link>/coming-up/</link>
+				<link>https://schankfarm.com/coming-up/</link>
 				<pubDate>Tue, 17 May 2016 01:12:00 +0000</pubDate>
-				<guid>/coming-up/</guid>
+				<guid>https://schankfarm.com/coming-up/</guid>
 				<description>&lt;p&gt;Keith sent some pictures, and says &amp;ldquo;The corn around here looked pretty rough last week due to the cold weather and lack of sun shine, but the weather has turned around and the corn has its green color back.  I was fertilizing it yesterday and took some more pictures so I have lots of pictures to share!&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Crop planning</title>
-				<link>/crop-plans-for-2016/</link>
+				<link>https://schankfarm.com/crop-plans-for-2016/</link>
 				<pubDate>Thu, 24 Dec 2015 05:17:00 +0000</pubDate>
-				<guid>/crop-plans-for-2016/</guid>
+				<guid>https://schankfarm.com/crop-plans-for-2016/</guid>
 				<description>&lt;p&gt;Keith shares some of his plans for crops next year:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;I talked to the neighbors on the east side of the farm it sounds like they are not planting enogen corn around there. This is good news because that opens up the possibility that I may be able to grow white corn there! So I&amp;rsquo;m really excited about this possibility.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>First corn planting</title>
-				<link>/first-corn-planting/</link>
+				<link>https://schankfarm.com/first-corn-planting/</link>
 				<pubDate>Sat, 01 Jun 2013 00:50:00 +0000</pubDate>
-				<guid>/first-corn-planting/</guid>
+				<guid>https://schankfarm.com/first-corn-planting/</guid>
 				<description>&lt;p&gt;Jeff inspects the first planting. It&amp;rsquo;s a decent stand.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;walking-corn-rows.jpg&#34;&gt;&lt;img src=&#34;walking-corn-rows.jpg&#34; alt=&#34;Walking Corn Rows&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

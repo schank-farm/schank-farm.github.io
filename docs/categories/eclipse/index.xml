@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Eclipse on Schank Farm</title>
-		<link>/categories/eclipse/</link>
+		<link>https://schankfarm.com/categories/eclipse/</link>
 		<description>Recent content in Eclipse on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 24 Feb 2021 00:09:46 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/eclipse/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/eclipse/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The bridge to totality (eclipse)</title>
-				<link>/the-bridge-to-totality-eclipse-2017/</link>
+				<link>https://schankfarm.com/the-bridge-to-totality-eclipse-2017/</link>
 				<pubDate>Tue, 22 Aug 2017 06:03:00 +0000</pubDate>
-				<guid>/the-bridge-to-totality-eclipse-2017/</guid>
+				<guid>https://schankfarm.com/the-bridge-to-totality-eclipse-2017/</guid>
 				<description>&lt;p&gt;Woo hooo, the August 21, 2017 total eclipse went right through our town. We walked from Dad&amp;rsquo;s house to the Platte River bridge on Dark Island Trail to experience totality. OMG IT WAS AMAZING.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Trip on Schank Farm</title>
-		<link>/categories/trip/</link>
+		<link>https://schankfarm.com/categories/trip/</link>
 		<description>Recent content in Trip on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Thu, 25 Feb 2021 17:15:34 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/trip/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/trip/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Take the Long Way Home</title>
-				<link>/take-long-way-home/</link>
+				<link>https://schankfarm.com/take-long-way-home/</link>
 				<pubDate>Sat, 31 Oct 2020 23:59:00 +0000</pubDate>
-				<guid>/take-long-way-home/</guid>
+				<guid>https://schankfarm.com/take-long-way-home/</guid>
 				<description>&lt;p&gt;(Written while listening to &lt;a href=&#34;https://www.youtube.com/watch?v=7btmeE8Ewa8&#34;&gt;Supertramp&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;I looked over at my Romeo. How about we make a picture show? Let&amp;rsquo;s take the long way home. A corona-free drive home.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll have some times when we feel we&amp;rsquo;re part of the &lt;a href=&#34;https://www.nps.gov/zion/planyourvisit/kolob-canyons.htm&#34;&gt;scenery&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Drive out to the Farm</title>
-				<link>/drive-to-farm/</link>
+				<link>https://schankfarm.com/drive-to-farm/</link>
 				<pubDate>Tue, 21 Jul 2020 03:57:00 +0000</pubDate>
-				<guid>/drive-to-farm/</guid>
+				<guid>https://schankfarm.com/drive-to-farm/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://biology.ucdavis.edu/people/jeff-schank&#34;&gt;Jeff&lt;/a&gt; and I decided to take a drive out to the farm.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;truck-selfie.jpg&#34;&gt;&lt;img src=&#34;truck-selfie.jpg&#34; alt=&#34;Truck Selfie&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Along the way, we saw some beautiful red rocks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;roadside-selfie.JPG&#34;&gt;&lt;img src=&#34;roadside-selfie.JPG&#34; alt=&#34;Roadside Selfie&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;And a pretty college campus.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The bridge to totality (eclipse)</title>
-				<link>/the-bridge-to-totality-eclipse-2017/</link>
+				<link>https://schankfarm.com/the-bridge-to-totality-eclipse-2017/</link>
 				<pubDate>Tue, 22 Aug 2017 06:03:00 +0000</pubDate>
-				<guid>/the-bridge-to-totality-eclipse-2017/</guid>
+				<guid>https://schankfarm.com/the-bridge-to-totality-eclipse-2017/</guid>
 				<description>&lt;p&gt;Woo hooo, the August 21, 2017 total eclipse went right through our town. We walked from Dad&amp;rsquo;s house to the Platte River bridge on Dark Island Trail to experience totality. OMG IT WAS AMAZING.&lt;/p&gt;</description>
 			</item>
 	</channel>

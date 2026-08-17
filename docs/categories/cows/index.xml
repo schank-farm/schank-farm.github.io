@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Cows on Schank Farm</title>
-		<link>/categories/cows/</link>
+		<link>https://schankfarm.com/categories/cows/</link>
 		<description>Recent content in Cows on Schank Farm</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 30 Jan 2020 23:54:14 +0000</lastBuildDate>
 		
-			<atom:link href="/categories/cows/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://schankfarm.com/categories/cows/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>&#39;Til the Cows Come Home</title>
-				<link>/til-cows-come-home/</link>
+				<link>https://schankfarm.com/til-cows-come-home/</link>
 				<pubDate>Sat, 30 Nov 2019 23:51:00 +0000</pubDate>
-				<guid>/til-cows-come-home/</guid>
+				<guid>https://schankfarm.com/til-cows-come-home/</guid>
 				<description>&lt;p&gt;Why can&amp;rsquo;t you stay up until the cows come home? Because it&amp;rsquo;s pasture bedtime!&lt;/p&gt;&#xA;&lt;p&gt;That&amp;rsquo;s udderly ridiculous; of course you can stay up. But we went to bed early because Dad gets us up at the crack of dawn to feed the chickens. This time we also got to feed grass to two baby calves! Our house tenants are raising them in the barn with plans to show them at 4-H in the fall. How cute are they?&lt;/p&gt;</description>
 			</item>
 	</channel>
