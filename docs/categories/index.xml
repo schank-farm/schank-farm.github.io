@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Feb 2026 04:02:09 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 06 Oct 2026 14:59:22 +0000</lastBuildDate>
 		
 			<atom:link href="https://schankfarm.com/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Corn</title>
+				<link>https://schankfarm.com/categories/corn/</link>
+				<pubDate>Sat, 03 Oct 2026 00:13:00 +0000</pubDate>
+				<guid>https://schankfarm.com/categories/corn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Harvest</title>
+				<link>https://schankfarm.com/categories/harvest/</link>
+				<pubDate>Sat, 03 Oct 2026 00:13:00 +0000</pubDate>
+				<guid>https://schankfarm.com/categories/harvest/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>House</title>
 				<link>https://schankfarm.com/categories/house/</link>
@@ -25,13 +39,6 @@
 				<link>https://schankfarm.com/categories/landscaping/</link>
 				<pubDate>Fri, 19 Jul 2024 23:25:00 +0000</pubDate>
 				<guid>https://schankfarm.com/categories/landscaping/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Corn</title>
-				<link>https://schankfarm.com/categories/corn/</link>
-				<pubDate>Mon, 17 Jun 2024 23:25:00 +0000</pubDate>
-				<guid>https://schankfarm.com/categories/corn/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -81,13 +88,6 @@
 				<link>https://schankfarm.com/categories/cows/</link>
 				<pubDate>Sat, 30 Nov 2019 23:51:00 +0000</pubDate>
 				<guid>https://schankfarm.com/categories/cows/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Harvest</title>
-				<link>https://schankfarm.com/categories/harvest/</link>
-				<pubDate>Thu, 31 Oct 2019 04:33:00 +0000</pubDate>
-				<guid>https://schankfarm.com/categories/harvest/</guid>
 				<description></description>
 			</item>
 			<item>
