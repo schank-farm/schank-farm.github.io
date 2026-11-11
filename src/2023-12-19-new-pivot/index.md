@@ -20,14 +20,10 @@ The pivot covers 139 acres. and the rest will continue to be gravity irrigated
 won't let us convert to irrigated acres because they don't allow that anymore).
 
 Anyway, I stopped by to do the pivot deal on Nov 6, on our way to Argentina.
-Keith joined us to make decisions with Tyler at Perfect Circle.
-
-The parts showed up on the farm December 18, and Perfect Circle said they'd 
+Keith joined us to make decisions with Tyler at Perfect Circle. The parts showed up on the farm December 18, and Perfect Circle said they'd 
 assemble it next week. And Keith found a kid in Polk interested the old T&L pivot!
 
-January update:  Keith says, "I drove by the other day and the new pivot is standing, so that was pretty exciting to see!"
-
-It took a little more work than they thought to set it up, including pouring some
+January update:  Keith says, "I drove by the other day and the new pivot is standing, so that was pretty exciting to see!" It took a little more work than they thought to set it up, including pouring some
 concrete for the base. But all is looking good. Keith followed up with:
 
 "I'm glad you have given me the chance to farm your ground! You guys have made farming fun for me and I’ve really enjoyed farming your ground! I’m really sorry this pivot deals turned into such a pain but I’m hoping we got it worked out!"
