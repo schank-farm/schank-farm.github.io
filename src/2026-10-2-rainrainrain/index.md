@@ -1,6 +1,6 @@
 ---
 title: "Rain Rain Rain"
-slug: "starting-harvest"
+slug: "rain-rain-rain"
 date: "2026-10-03T00:13:00.010Z"
 lastmod: "2026-10-06T14:59:22.344Z"
 draft: false
